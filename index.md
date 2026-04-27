@@ -5,7 +5,7 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-04-28 06:24:20 UTC+08:00
+# 2026-04-28 06:30:04 UTC+08:00
 
 ## Fusion literature update
 
