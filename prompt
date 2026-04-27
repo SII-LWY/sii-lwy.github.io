@@ -1,0 +1,52 @@
+Search the web for as many recent nuclear fusion / plasma physics related papers as possible.
+
+Scope:
+- Search broadly across fusion-related sources, including but not limited to:
+  arXiv, IAEA, ITER, EUROfusion, PPPL, ORNL, LLNL, GA, MIT PSFC, Max Planck IPP, NIFS, JAEA, UKAEA, EAST/ASIPP, KSTAR, JT-60SA, Wendelstein 7-X, DIII-D, JET, MAST-U, SPARC/CFS, TAE, Helion, Tokamak Energy, Google Scholar-style publisher pages, Nuclear Fusion, Plasma Physics and Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, Fusion Engineering and Design, Review of Scientific Instruments, Nature/Science fusion-related papers, and conference proceedings if available.
+- Prefer papers, preprints, technical reports, proceedings, and official research news that links to a paper.
+- Focus on items that are new since the last update in index.md.
+- Avoid duplicates by checking existing paper titles and URLs already present in index.md.
+
+For every paper found, write the result in English and include:
+1. Paper title
+2. URL
+3. Published date
+4. A concise content summary, about 2-4 sentences
+5. Source / venue if available
+
+Then edit index.md:
+- Find the line that starts with ">".
+- Insert the new update immediately below that line.
+- The update must start with a standard date heading in this format:
+
+# YYYY-MM-DD
+
+- After the date heading, list all newly found papers.
+- Use clear Markdown formatting.
+- Keep all content in English.
+- If no new papers are found, add a short note under today's date saying that no new papers were found after checking the sources.
+
+Use this format:
+
+# YYYY-MM-DD
+
+## Fusion literature update
+
+### 1. Paper Title
+- URL: ...
+- Published date: ...
+- Source / venue: ...
+- Summary: ...
+
+### 2. Paper Title
+- URL: ...
+- Published date: ...
+- Source / venue: ...
+- Summary: ...
+
+After editing index.md, run:
+git add index.md
+git commit -m "Update fusion literature YYYY-MM-DD"
+git push
+
+Make sure the file is correctly updated before committing. If git push fails, report the error clearly.
