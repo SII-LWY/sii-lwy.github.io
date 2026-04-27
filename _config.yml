@@ -1,0 +1,26 @@
+# _config.yml
+
+# 指定使用的主题，这里用官方最简单的 minima
+theme: minima
+
+# 网站标题（可以自定义）
+title: Wenyang's personal page
+
+# 网站描述（可选）
+description: Wenyang Li
+
+# 基础url，通常不用改，只有部署到子目录时才改
+# baseurl: ""
+
+# 作者信息（可选）
+# author:
+#   name: Wenyang Li
+#   email: lwydsglwydsg@gmail.com
+
+# 配置语言（默认是英文，可以改成zh-CN）
+# language: zh-CN
+
+# 关闭未来时间的文章不显示（minima默认支持博客功能）
+future: false
+
+# 其他自定义配置可以加在这里
