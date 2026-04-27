@@ -13,9 +13,9 @@ description: Automated updates of the latest fusion literature, provided free of
 # baseurl: ""
 
 # 作者信息（可选）
-author:
-  name: Wenyang Li
-  email: lwydsg@mail.nankai.edu.cn
+# author:
+#   name: Wenyang Li
+#   email: lwydsg@mail.nankai.edu.cn
 
 # 配置语言（默认是英文，可以改成zh-CN）
 # language: zh-CN
