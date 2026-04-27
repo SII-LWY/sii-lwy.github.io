@@ -3,7 +3,9 @@ layout: home
 title: Welcome
 ---
 
-# Hello, I'm Wenyang！
+# Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
+
+# 
 
 # Send me an email for more information!
 

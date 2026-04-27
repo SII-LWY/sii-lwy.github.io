@@ -4,18 +4,18 @@
 theme: minima
 
 # 网站标题（可以自定义）
-title: Wenyang's personal page
+title: SII AI for Fusion Literature Update
 
 # 网站描述（可选）
-description: Wenyang Li
+description: Automated updates of the latest fusion literature, provided free of charge by the SII AI for Fusion research group.
 
 # 基础url，通常不用改，只有部署到子目录时才改
 # baseurl: ""
 
 # 作者信息（可选）
-# author:
-#   name: Wenyang Li
-#   email: lwydsglwydsg@gmail.com
+author:
+  name: Wenyang Li
+  email: lwydsg@mail.nankai.edu.cn
 
 # 配置语言（默认是英文，可以改成zh-CN）
 # language: zh-CN
