@@ -1,11 +1,21 @@
-Search the web for as many recent nuclear fusion / plasma physics related papers as possible.
+Search the web for as many nuclear fusion / plasma physics related papers published or released in the past 24 hours as possible.
 
 Scope:
 - Search broadly across fusion-related sources, including but not limited to:
   arXiv, IAEA, ITER, EUROfusion, PPPL, ORNL, LLNL, GA, MIT PSFC, Max Planck IPP, NIFS, JAEA, UKAEA, EAST/ASIPP, KSTAR, JT-60SA, Wendelstein 7-X, DIII-D, JET, MAST-U, SPARC/CFS, TAE, Helion, Tokamak Energy, Google Scholar-style publisher pages, Nuclear Fusion, Plasma Physics and Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, Fusion Engineering and Design, Review of Scientific Instruments, Nature/Science fusion-related papers, and conference proceedings if available.
 - Prefer papers, preprints, technical reports, proceedings, and official research news that links to a paper.
-- Focus on items that are new since the last update in index.md.
+- Only include items published, released, posted, or officially announced within the past 24 hours.
 - Avoid duplicates by checking existing paper titles and URLs already present in index.md.
+
+Time handling:
+- Obtain the current timestamp from the system time when the task runs.
+- Format the timestamp exactly as:
+
+# YYYY-MM-DD HH:MM:SS UTC+08:00
+
+- Use UTC+08:00 time.
+- Use this exact timestamp consistently in both the Markdown date heading and the git commit message.
+- Do not manually guess or hard-code the timestamp.
 
 For every paper found, write the result in English and include:
 1. Paper title
@@ -17,18 +27,15 @@ For every paper found, write the result in English and include:
 Then edit index.md:
 - Find the line that starts with ">".
 - Insert the new update immediately below that line.
-- The update must start with a standard date heading in this format:
-
-# YYYY-MM-DD
-
+- The update must start with the timestamp heading generated from the system time.
 - After the date heading, list all newly found papers.
 - Use clear Markdown formatting.
 - Keep all content in English.
-- If no new papers are found, add a short note under today's date saying that no new papers were found after checking the sources.
+- If no new papers from the past 24 hours are found, add a short note under today's date saying that no new papers were found after checking the sources.
 
-Use this format:
+Use this Markdown format:
 
-# YYYY-MM-DD
+# YYYY-MM-DD HH:MM:SS UTC+08:00
 
 ## Fusion literature update
 
@@ -44,9 +51,27 @@ Use this format:
 - Source / venue: ...
 - Summary: ...
 
-After editing index.md, run:
+No-new-paper cleanup rule:
+- If no new papers are found in the current run, add the latest "no new papers found" note under the current timestamp.
+- Before committing, check index.md for previous update blocks that only say no new papers were found.
+- Remove older redundant "no new papers found" update blocks.
+- Keep only the most recent "no new papers found" note.
+- Do not remove previous update blocks that contain actual paper entries.
+
+Before committing, make sure index.md has been correctly updated.
+
+Then run:
+
 git add index.md
-git commit -m "Update fusion literature YYYY-MM-DD"
+git commit -m "Update fusion literature YYYY-MM-DD HH:MM:SS UTC+08:00"
 git push
 
-Make sure the file is correctly updated before committing. If git push fails, report the error clearly.
+Important:
+- Replace the timestamp in the commit message with the exact timestamp obtained from the system time.
+- If git push fails, report the error clearly.
+
+When generating the timestamp, you may use a command such as:
+
+timestamp="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S UTC+08:00')"
+
+Then use ${timestamp} in both index.md and the git commit message.
