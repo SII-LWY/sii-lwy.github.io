@@ -5,11 +5,22 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-04-28 06:30:04 UTC+08:00
+# 2026-04-28 12:30:52 UTC+08:00
 
 ## Fusion literature update
 
-**No new papers found today.** After comprehensive checking of major fusion research sources (arXiv, ITER, IAEA, journals including Nuclear Fusion, Physics of Plasmas, and Plasma Physics and Controlled Fusion), and institutions (MIT PSFC, PPPL, EUROfusion, Max Planck IPP, GA, LLNL, DIII-D, JET, JT-60SA, MAST-U), no new fusion papers have been published since the last update.
+### 1. Efficient Generation of Neutrons Based on Ultrashort Laser-driven Direct Acceleration in Microwire-Array Targets
+- URL: https://arxiv.org/abs/2604.23913
+- Published date: 2026-04-28
+- Source / venue: arXiv
+- Summary: Researchers experimentally demonstrated efficient neutron generation using ultrashort laser pulses focused on microwire-array targets via direct laser acceleration. The study identified an optimal array period that significantly increased proton energies and the number of protons exceeding 1 MeV. Using a 1 PW laser with moderate intensity, they achieved high neutron yields through nuclear reactions in a LiD converter. This compact neutron source is particularly suitable for high-repetition-rate applications in plasma and fusion research.
+
+### 2. Overview of X-ray Thomson scattering measurements of extreme states of matter
+- URL: https://arxiv.org/abs/2604.23687
+- Published date: 2026-04-28
+- Source / venue: arXiv
+- Summary: This comprehensive overview examines X-ray Thomson scattering (XRTS) as a diagnostic tool for extreme states of matter in laboratory plasmas. The technique samples the dynamic structure factor of electrons to infer critical thermodynamic parameters including mass density, temperature, and ionization state. XRTS has become one of the most successful methods for studying plasma physics since its first applications in the early 2000s. The review covers experiments at traditional laser and X-ray free electron laser facilities, discusses analysis methods, and examines future developments in high-energy-density plasma diagnostics.
+
 
 
 # 2026-04-27 00:00:00 UTC+08:00
