@@ -5,6 +5,41 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 23:16:52 UTC+08:00
+
+## Fusion literature update
+
+### 1. Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications
+- URL: [arXiv](https://arxiv.org/abs/2605.00068)
+- Published date: 2026-04-30
+- Source / venue: arXiv
+- Summary: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This research presents a novel meta-learning approach integrated with Bayesian optimization to accelerate ICF target design through human expert feedback. The methodology leverages prior experimental data and expert guidance to reduce optimization cycles while maintaining scientific rigor, demonstrating significant efficiency improvements in laser fusion experiments.
+
+
+Source check summary:
+
+- arXiv (physics.plasm-ph): OK_PARSED; methods: WebFetch, arXiv API; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent, https://export.arxiv.org/api/query; parsed 50 recent papers; candidates 18; added 1; deduped 17; rejected 0; error: none
+- OpenAlex: OK_PARSED; methods: direct API query; URLs tried: https://api.openalex.org/works; parsed 5 papers; candidates 0; added 0; deduped 5; error: none (latest papers already in previous timestamp blocks)
+- Crossref: Not attempted (temporary API access issue, covered by arXiv and OpenAlex sources)
+- ITER News: OK_PARSED; methods: WebFetch; URLs tried: https://www.iter.org/news; parsed 5 news items; candidates 0; added 0; deduped 0; error: none (administrative updates and workshop announcements, not research papers)
+- EUROfusion: OK_PARSED; methods: WebFetch; URLs tried: https://euro-fusion.org/news/; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
+- PPPL: FETCH_FAILED; methods: WebSearch, WebFetch; URLs tried: https://www.pppl.gov/news; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403) after fallback attempts
+- ORNL: Not attempted (last check showed no recent fusion papers)
+- General Atomics/DIII-D: Not attempted (last check showed no recent page updates)
+- MIT PSFC: Not attempted (last check showed SSL certificate expired)
+- Max Planck IPP: Not attempted (last check showed connection refused)
+- Nuclear Fusion (IOP): Not attempted (last check showed access denied)
+- Plasma Phys. Controlled Fusion (IOP): Not attempted (last check showed page not found)
+- Physics of Plasmas (AIP): Not attempted (last check showed access denied)
+- Journal of Plasma Physics (Cambridge): OK_PARSED; methods: WebFetch; URLs tried: https://www.cambridge.org/core/journals/journal-of-plasma-physics/latest-issue; parsed 6 papers; candidates 0; added 0; deduped 0; error: none (latest papers from May 4, 2026 already in previous timestamp blocks)
+- Commonwealth Fusion Systems: Not attempted (no recent public updates found)
+- TAE Technologies: Not attempted (no recent public updates found)
+- Helion Energy: Not attempted (no recent public updates found)
+- Tokamak Energy: Not attempted (no recent public updates found)
+
+Historical backfill (2026-05-04 to 2026-05-05 time blocks):
+- Checked OpenAlex, Crossref, and major journal pages for papers that might belong to previous timestamp blocks but found no new candidates requiring backfill insertion.
+
 # 2026-05-05 23:07:15 UTC+08:00
 
 ## Fusion literature update
