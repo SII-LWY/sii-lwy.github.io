@@ -5,6 +5,12 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 21:06:32 UTC+08:00
+
+## Fusion literature update
+
+No new papers were found in the time window 2026-05-05 20:43:06 to 2026-05-05 21:06:32 UTC+08:00 after checking arXiv (physics.plasm-ph and 18 fusion-related keyword queries), OpenAlex (14 fusion-related queries), Crossref (multiple fusion queries), and performing Task B historical multi-source backfill searches. Task B searched historical intervals using OpenAlex to enrich existing timestamp blocks with non-arXiv sources.
+
 # 2026-05-05 20:58:32 UTC+08:00
 
 ## Fusion literature update
