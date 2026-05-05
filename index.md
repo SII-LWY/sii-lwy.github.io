@@ -6,6 +6,63 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 22:22:48 UTC+08:00
+
+## Fusion literature update
+
+### 1. Distributions of particles accelerated by strong Alfvénic turbulence
+- URL: [arXiv](https://arxiv.org/abs/2605.02219)
+- Published date: 2026-05-05
+- Source / venue: arXiv
+- Summary: This work presents a model for generating nonthermal power-law tails in particle energy distributions within turbulent collisionless plasmas. The authors propose that strong Alfvénic turbulence energizes plasma particles through curvature acceleration, particularly when particle Larmor radii match turbulence scales. The model predicts momentum probability density scaling as f(p) ∝ p⁻³ in the non-relativistic case and energy density scaling as f(γ) ∝ γ⁻³ in the ultrarelativistic limit, providing a unified framework that explains particle acceleration across energy regimes relevant to both laboratory and astrophysical plasmas.
+
+### 2. The L-H transition in tokamaks: power threshold, density minimum and toroidal-field asymmetry
+- URL: [arXiv](https://arxiv.org/abs/2605.00624)
+- Published date: 2026-05-01
+- Source / venue: arXiv
+- Summary: This paper addresses the long-standing mystery of the L-H transition in tokamaks, which has been unsolved for over forty years. The researchers use advanced three-dimensional flux-driven two-fluid simulations to demonstrate that electromagnetic drift-wave turbulence spontaneously generates sheared E×B flows responsible for transport suppression. A key finding is that the transition occurs at lower heating power in the favorable toroidal-field configuration, with this asymmetry explained by collisional effects breaking time-reversal symmetry, providing fundamental theoretical scaling relationships for power thresholds.
+
+### 3. Characterization of ELM Pacing via Vertical Jogs on DIII-D
+- URL: [arXiv](https://arxiv.org/abs/2605.00165)
+- Published date: 2026-04-30
+- Source / venue: arXiv
+- Summary: This research demonstrates ELM pacing through vertical plasma oscillations on the DIII-D tokamak, where rapid vertical movements toward the X-point effectively trigger Edge Localized Modes at 20 Hz compared to natural ~5 Hz frequencies. The technique reduces stored energy losses from 10% to below 1%, decreases peak divertor heat flux by approximately half, and lowers carbon impurity concentrations. The proposed mechanism involves induced edge toroidal currents during downward plasma movement, which push the plasma across stability boundaries to trigger ELMs, offering improved control over transient heat loads.
+
+### 4. Nitrogen-induced ELM suppression and confinement improvement in the EAST tokamak with a full metal wall
+- URL: [arXiv](https://arxiv.org/abs/2604.26403)
+- Published date: 2026-04-29
+- Source / venue: arXiv
+- Summary: Researchers achieved complete suppression of Edge-Localized Mode (ELM) bursts through nitrogen seeding in the EAST tokamak, while simultaneously improving global energy confinement with the H98 factor increasing from approximately 0.9 to 1.2. They identified a Dissipative Trapped Electron Mode operating at the pedestal foot that regulates edge gradients and prevents crossing the Peeling-Ballooning stability boundary. This work demonstrates a promising integrated approach for maintaining both high confinement and protecting plasma-facing components in future steady-state fusion reactors.
+
+### 5. Improved n=1 Empirical Error Field Penetration Threshold Scaling with Ohmic and L-Mode Conventional Tokamak Plasma Discharges
+- URL: [arXiv](https://arxiv.org/abs/2604.27317)
+- Published date: 2026-04-30
+- Source / venue: arXiv
+- Summary: This paper develops an improved empirical scaling law to predict the threshold at which error fields penetrate Ohmic and L-mode tokamak plasmas—the operational regimes most vulnerable to such effects. By expanding the experimental database with J-TEXT and new JET data, the research provides more reliable engineering guidelines that constrain the magnetic accuracy required in future tokamaks. These improved scalings with reduced uncertainty directly impact construction costs and design feasibility for conventional tokamaks and future fusion power plants.
+
+
+Source check summary:
+
+- arXiv (physics.plasm-ph): OK_PARSED; fetched 3 URLs; parsed 41 recent papers; candidates 16; added 5; deduped 11; error: none
+- ITER News: OK_PARSED; fetched 1 URL; parsed 8 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not papers)
+- EUROfusion: OK_PARSED; fetched 1 URL; parsed 9 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not papers)
+- arXiv (space physics): OK_PARSED; fetched 1 URL; parsed 15 papers; candidates 4; added 0; deduped 4; error: none
+- MIT PSFC: OK_PARSED; fetched 1 URL; parsed 5 news items; candidates 0; added 0; deduped 0; error: none (news, not research papers)
+- ORNL: OK_NO_RELEVANT; fetched 1 URL; parsed 1 item; candidates 0; added 0; deduped 0; error: no recent fusion papers
+- LLNL: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page requires authentication
+- General Atomics/DIII-D: PARSE_FAILED; fetched 1 URL; parsed 0; candidates 0; added 0; deduped 0; error: 404 error or no recent publications page
+- Nuclear Fusion (IOP): FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page access denied (403)
+- Plasma Phys. Controlled Fusion (IOP): FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page not found (404)
+- Physics of Plasmas (AIP): FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page not found (404)
+- Journal of Plasma Physics (Cambridge): FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page not found (404)
+- Fusion Engineering and Design (Elsevier): FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
+- Nature: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
+- Science: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: redirected (303)
+- Max Planck IPP: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: connection refused
+- ASIPP/EAST: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: self-signed certificate issue
+- KSTAR: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page not found (404)
+- JT-60SA: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page not found (404)
+
 # 2026-05-05 22:02:28 UTC+08:00
 
 ## Fusion literature update
