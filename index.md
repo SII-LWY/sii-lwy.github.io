@@ -1,116 +1,23 @@
 
-# 2026-05-05 21:36:25 UTC+08:00
 
-## New papers
-- **Equilibrium of a simplified coil quasi-axisymmetric stellarator: Free boundary approach** — Kassandra Salguero-Martínez, J. Julio E. Herrera-Velázquez. arXiv, 2026-05-04. Links: [arXiv](https://arxiv.org/abs/2605.02139). Note:  Related to fusion/plasma physics.
-- **Diffusion wall time in toroidally segmented shell aka Armadillo** — D. Abate, A. Corbioli. arXiv, 2026-05-03. Links: [arXiv](https://arxiv.org/abs/2605.02018). Note:  Related to fusion/plasma physics.
-- **Computational boundary specification in 3D fixed-boundary magnetohydrodynamic equilibrium modeling** — Alan Kaptanoglu, Tobias Blickhan. arXiv, 2026-05-03. Links: [arXiv](https://arxiv.org/abs/2605.01652). Note:  Related to fusion/plasma physics.
-- **High-throughput full-f gyrokinetics of the tokamak boundary** — A. C. D. Hoffmann, M. Francisquez, T. N. Bernard et al.. arXiv, 2026-05-01. Links: [arXiv](https://arxiv.org/abs/2605.01117). Note:  Related to fusion/plasma physics.
-- **The L-H transition in tokamaks: power threshold, density minimum and toroidal-field asymmetry** — Brenno De Lucca, Paolo Ricci, Benoit Labit et al.. arXiv, 2026-05-01. Links: [arXiv](https://arxiv.org/abs/2605.00624). Note:  Related to fusion/plasma physics.
-- **Characterization of ELM Pacing via Vertical Jogs on DIII-D** — Kei Yasoda, Dario Panici, Andrew Oak Nelson et al.. arXiv, 2026-04-30. Links: [arXiv](https://arxiv.org/abs/2605.00165). Note:  Related to fusion/plasma physics.
-- **Electrothermal Dynamics of Cold Front in Impure Tokamak Plasmas** — S. Oshiro, A. Matsuyama, Y. Nakamura. arXiv, 2026-04-30. Links: [arXiv](https://arxiv.org/abs/2604.27444). Note:  Related to fusion/plasma physics.
-- **Self-consistent modelling and qualitative comparison of mildly relativistic runaway electron dynamics with a closed flux surface formation model during tokamak startup** — Y. Lee, H. -T. Kim, P. C. de Vries et al.. arXiv, 2026-04-30. Links: [arXiv](https://arxiv.org/abs/2604.27395). Note:  Related to fusion/plasma physics.
-- **Improved n=1 Empirical Error Field Penetration Threshold Scaling with Ohmic and L-Mode Conventional Tokamak Plasma Discharges** — E. M. Bursch, J. K. Park, N. C. Logan et al.. arXiv, 2026-04-30. Links: [arXiv](https://arxiv.org/abs/2604.27317). Note:  Related to fusion/plasma physics.
-- **Compressible Navier--Stokes Flow in Schrödinger-Type Variables** — James R. Beattie, Max Sokolova, Khush Negandhi et al.. arXiv, 2026-04-29. Links: [arXiv](https://arxiv.org/abs/2604.27088). Note:  Related to fusion/plasma physics.
-- **The link between coil non planarity and magnetic surface geometry in QI stellarators: a data driven study** — Andrea Pavone, Felix Warmer. arXiv, 2026-04-29. Links: [arXiv](https://arxiv.org/abs/2604.26763). Note:  Related to fusion/plasma physics.
-- **Nitrogen-induced ELM suppression and confinement improvement in the EAST tokamak with a full metal wall** — Jingyan Hu, Peng Shi, Chu Zhou et al.. arXiv, 2026-04-29. Links: [arXiv](https://arxiv.org/abs/2604.26403). Note:  Related to fusion/plasma physics.
-- **FPGA-Accelerated Real-Time Diagnostics at DIII-D Using the SLAC Neural Network Library for ML Inference** — Abhilasha Dave, Semin Joung, SangKyeun Kim et al.. arXiv, 2026-04-28. Links: [arXiv](https://arxiv.org/abs/2604.26042). Note:  Related to fusion/plasma physics.
-- **Non-thermal electron cyclotron emission during runaway plateau in tokamak disruptions from an analytic hot plasma dispersion tensor** — Yeongsun Lee, Kikyung Park, Tchanou Park et al.. arXiv, 2026-04-28. Links: [arXiv](https://arxiv.org/abs/2604.26034). Note:  Related to fusion/plasma physics.
-- **Augmented reality system for visualising magnetic field topology and charged-particle trajectories in magnetic fusion plasmas** — Akinobu Matsuyama. arXiv, 2026-04-28. Links: [arXiv](https://arxiv.org/abs/2604.25426). Note:  Related to fusion/plasma physics.
-- **Quasilinear flux model consistent with gyrokinetic ordering** — O. Yamagishi, G. Watanabe. arXiv, 2026-04-27. Links: [arXiv](https://arxiv.org/abs/2604.25068). Note:  Related to fusion/plasma physics.
-- **A simple model of current ramp down in the ITER tokamak** — Richard Fitzpatrick. arXiv, 2026-04-27. Links: [arXiv](https://arxiv.org/abs/2604.24928). Note:  Related to fusion/plasma physics.
-- **Revisiting confinement scalings and fusion performance with a perspective optimized for extrapolation** — Jalal Butt, Geert Verdoolaege, Stanley M. Kaye et al.. arXiv, 2026-04-24. Links: [arXiv](https://arxiv.org/abs/2604.22728). Note:  Related to fusion/plasma physics.
-- **3D modelling of thermal loads during unmitigated vertical displacement events in ITER and JET** — F. J. Artola, A. Redl, S. N. Gerasimov et al.. arXiv, 2026-04-24. Links: [arXiv](https://arxiv.org/abs/2604.22516). Note:  Related to fusion/plasma physics.
-- **Towards hybrid kinetic/drift-kinetic simulations in 6d Vlasov codes** — M. Pelkner, K. Hallatschek, M. Raeth. arXiv, 2026-04-23. Links: [arXiv](https://arxiv.org/abs/2604.21708). Note:  Related to fusion/plasma physics.
-- **Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission** — Vedin Dewan, Aleksei M. Zheltikov, Julia M. Mikhailova. arXiv, 2026-04-22. Links: [arXiv](https://arxiv.org/abs/2604.20672). Note:  Related to fusion/plasma physics.
-- **The physics of ELM-free regimes in EUROfusion tokamaks** — M. G. Dunne, M. Faitsch, O. Sauter et al.. arXiv, 2026-04-22. Links: [arXiv](https://arxiv.org/abs/2604.20484). Note:  Related to fusion/plasma physics.
-- **Gyrokinetic simulations on zonal flow-turbulence spreading coupling** — Min Ki Jung, Sumin Yi, Taik Soo Hahm et al.. arXiv, 2026-04-22. Links: [arXiv](https://arxiv.org/abs/2604.20101). Note:  Related to fusion/plasma physics.
-- **A Physics-Informed Neural Network for Solving the Quasi-static Magnetohydrodynamic Equations** — Jonathan S. Arnaud, Christopher J. McDevitt, Golo Wimmer et al.. arXiv, 2026-04-22. Links: [arXiv](https://arxiv.org/abs/2604.20085). Note:  Related to fusion/plasma physics.
-- **Multiscale Assessment of Tritium Behavior in Preliminary Fusion Pilot Plant Design Using Surrogate Models in TMAP8** — Lin Yang, Pierre-Clément A. Simon, Emre Yildirim et al.. arXiv, 2026-04-21. Links: [arXiv](https://arxiv.org/abs/2604.19647). Note:  Related to fusion/plasma physics.
-- **Deep-Learning based surrogate models for plasma exhaust simulations -- SOLPS-NN** — Stefan Dasbach, Sebastijan Brezinsek, Yunfeng Liang et al.. arXiv, 2026-04-21. Links: [arXiv](https://arxiv.org/abs/2604.19223). Note:  Related to fusion/plasma physics.
-- **Autoregressive prediction of 2D MHD dynamics inferred from deep learning modeling** — David Kivarkis, Waleed Mouhali, Sadruddin Benkadda et al.. arXiv, 2026-04-20. Links: [arXiv](https://arxiv.org/abs/2604.18221). Note:  Related to fusion/plasma physics.
-- **Mechanism Behind the Recombination Requirement for Benign Termination of Relativistic Electron Beams** — George Su, Carl Friedrich Benedikt Zimmermann, Carlos Paz-Soldan et al.. arXiv, 2026-04-16. Links: [arXiv](https://arxiv.org/abs/2604.15575). Note:  Related to fusion/plasma physics.
-- **Monte Carlo Simulations of Suprathermal Enhancement in Advanced Nuclear Fusion Fuels** — Marcus Borscz, Thomas A. Mehlhorn, Patrick A. Burr et al.. arXiv, 2026-04-08. Links: [arXiv](https://arxiv.org/abs/2604.06769). Note:  Related to fusion/plasma physics.
-- **gyaradax: Local Gyrokinetics JAX Code** — Gianluca Galletti, Eric Volkmann, Johannes Brandstetter. arXiv, 2026-04-07. Links: [arXiv](https://arxiv.org/abs/2604.06085). Note:  Related to fusion/plasma physics.
-- **Simulations of internal kink modes and sawtooth crashes for SPARC baseline-like scenarios using the M3D-C1 code** — W. H. Wang, C. Clauser, C. Liu et al.. arXiv, 2026-04-02. Links: [arXiv](https://arxiv.org/abs/2604.02172). Note:  Related to fusion/plasma physics.
-- **Real-time virtual circuits for plasma shape control via neural network surrogates: dynamic validation in closed-loop simulations** — K. Pentland, A. Ross, N. C. Amorisco et al.. arXiv, 2026-04-01. Links: [arXiv](https://arxiv.org/abs/2604.00781). Note:  Related to fusion/plasma physics.
-- **Numerical methods for stellarator simulations in BOUT++** — David Bold, Brendan Shanahan. arXiv, 2026-03-30. Links: [arXiv](https://arxiv.org/abs/2603.28221). Note:  Related to fusion/plasma physics.
-- **A proof-of-concept for automated AI-driven stellarator coil optimization with in-the-loop finite-element calculations** — Alan A. Kaptanoglu, Pedro F. Gil. arXiv, 2026-03-16. Links: [arXiv](https://arxiv.org/abs/2603.15240). Note:  Related to fusion/plasma physics.
-- **Modeling anisotropic energy dissipation of light ions at the atomistic scale** — Evgeniia Ponomareva, Artur Tamm, Andrea E. Sand. arXiv, 2026-03-11. Links: [arXiv](https://arxiv.org/abs/2603.10838). Note:  Related to fusion/plasma physics.
-- **What Is the Minimum Number of Parameters Required to Represent Solutions of the Grad-Shafranov Equation?** — Huasheng Xie, Yueyan Li. arXiv, 2026-01-06. Links: [arXiv](https://arxiv.org/abs/2601.02942). Note:  Related to fusion/plasma physics.
-- **Disruption Modelling for Engineering and Physics Design of Tokamak Energy ST-E1 Fusion Power Plant** — M. Scarpari, X. Zhang, K. Borowiec et al.. arXiv, 2025-12-18. Links: [arXiv](https://arxiv.org/abs/2512.16604). Note:  Related to fusion/plasma physics.
-- **Beyond dpa: an atomistic framework for a quantitative description of radiation damage in YBa2Cu3O7** — Federico Ledda, Daniele Torsello, Davide Gambino et al.. arXiv, 2025-12-18. Links: [arXiv](https://arxiv.org/abs/2512.16249). Note:  Related to fusion/plasma physics.
-- **VNS Tokamak OpenMC-Serpent Validation for Medical Isotope Studies** — Christopher Ehrich, Christian Bachmann, Pavel Pereslavtsev et al.. arXiv, 2025-12-04. Links: [arXiv](https://arxiv.org/abs/2512.04873). Note:  Related to fusion/plasma physics.
-- **Numerical model for pellet rocket acceleration in PELOTON** — J. Corbett, R. Samulyak, F. J. Artola et al.. arXiv, 2025-12-04. Links: [arXiv](https://arxiv.org/abs/2512.04484). Note:  Related to fusion/plasma physics.
-- **Machine-Learned Interatomic Potentials for Structural and Defect Properties of YBa$_2$Cu$_3$O$_{7-δ}$** — Niccolò Di Eugenio, Ashley Dickson, Flyura Djurabekova et al.. arXiv, 2025-11-27. Links: [arXiv](https://arxiv.org/abs/2511.22592). Note:  Related to fusion/plasma physics.
-- **Case study of a differentiable heterogeneous multiphysics solver for a nuclear fusion application** — Jack B. Coughlin, Archis Joglekar, Jonathan Brodrick et al.. arXiv, 2025-11-17. Links: [arXiv](https://arxiv.org/abs/2511.13262). Note:  Related to fusion/plasma physics.
-- **Scalable Domain-decomposed Monte Carlo Neutral Transport for Nuclear Fusion** — Oskar Lappi, Huw Leggate, Yannick Marandet et al.. arXiv, 2025-11-06. Links: [arXiv](https://arxiv.org/abs/2511.04489). Note:  Related to fusion/plasma physics.
-- **MRX: A differentiable 3D MHD equilibrium solver without nested flux surfaces** — Tobias Blickhan, Julianne Stratton, Alan A. Kaptanoglu. arXiv, 2025-10-30. Links: [arXiv](https://arxiv.org/abs/2510.26986). Note:  Related to fusion/plasma physics.
-- **Towards fully predictive gyrokinetic full-f simulations: validation and triangularity studies in TCV** — A. C. D. Hoffmann, T. N. Bernard, M. Francisquez et al.. arXiv, 2025-10-13. Links: [arXiv](https://arxiv.org/abs/2510.11874). Note:  Related to fusion/plasma physics.
-- **PHASE: Physics-Integrated, Heterogeneity-Aware Surrogates for Scientific Simulations** — Dawei Gao, Dali Wang, Zhuowei Gu et al.. arXiv, 2025-09-27. Links: [arXiv](https://arxiv.org/abs/2509.23453). Note:  Related to fusion/plasma physics.
-- **Particle swarm optimization of divertor targets for heat load control** — H. Frerichs. arXiv, 2025-08-29. Links: [arXiv](https://arxiv.org/abs/2509.00206). Note:  Related to fusion/plasma physics.
-- **Tensor Networks for Liquids in Heterogeneous Systems** — Zachary A. Johnson, Luciano G. Silvestri, Pierson Guthrey et al.. arXiv, 2025-07-25. Links: [arXiv](https://arxiv.org/abs/2507.19352). Note:  Related to fusion/plasma physics.
-- **Fast prediction of plasma instabilities with sparse-grid-accelerated optimized dynamic mode decomposition** — Kevin Gill, Ionut-Gabriel Farcas, Silke Glas et al.. arXiv, 2025-07-04. Links: [arXiv](https://arxiv.org/abs/2507.03245). Note:  Related to fusion/plasma physics.
-- **Superatomic hydrogen: achieving effective aggregation of hydrogen atoms at pressures lower than that of metallic hydrogen** — Jia Fan, Chenxi Wan, Rui Liu et al.. arXiv, 2025-06-04. Links: [arXiv](https://arxiv.org/abs/2506.03463). Note:  Related to fusion/plasma physics.
-- **Improved Dimensionality Reduction for Inverse Problems in Nuclear Fusion and High-Energy Astrophysics** — Jonathan Gorard, Ammar Hakim, Hong Qin et al.. arXiv, 2025-05-05. Links: [arXiv](https://arxiv.org/abs/2505.03849). Note:  Related to fusion/plasma physics.
-- **What metric to optimize for suppressing instability in a Vlasov-Poisson system?** — Martin Guerra, Qin Li, Yukun Yue et al.. arXiv, 2025-04-14. Links: [arXiv](https://arxiv.org/abs/2504.10435). Note:  Related to fusion/plasma physics.
-- **Latent Space Mapping: Revolutionizing Predictive Models for Divertor Plasma Detachment Control** — Ben Zhu, Menglong Zhao, Xue-Qiao Xu et al.. arXiv, 2025-02-27. Links: [arXiv](https://arxiv.org/abs/2502.19654). Note:  Related to fusion/plasma physics.
-- **Calibrated Physics-Informed Uncertainty Quantification** — Vignesh Gopakumar, Ander Gray, Lorenzo Zanisi et al.. arXiv, 2025-02-06. Links: [arXiv](https://arxiv.org/abs/2502.04406). Note:  Related to fusion/plasma physics.
-- **Optimization of passive superconductors for shaping stellarator magnetic fields** — Alan A. Kaptanoglu, Matt Landreman, Michael C. Zarnstorff. arXiv, 2025-01-21. Links: [arXiv](https://arxiv.org/abs/2501.12468). Note:  Related to fusion/plasma physics.
-- **Demonstration of OpenMC as a framework for atomic transport and plasma interaction** — George J. Wilkie, Paul K. Romano, R. Michael Churchill. arXiv, 2024-11-20. Links: [arXiv](https://arxiv.org/abs/2411.12937). Note:  Related to fusion/plasma physics.
-- **Multiscale simulation of neutral particle flows in the plasma edge** — Yifan Wen, Yanbing Zhang, Lei Wu. arXiv, 2024-11-13. Links: [arXiv](https://arxiv.org/abs/2411.08575). Note:  Related to fusion/plasma physics.
-- **Piecewise Field-Aligned Finite Element Method for Multi-Mode Nonlinear Particle Simulations in tokamak plasmas** — Zhixin Lu, Guo Meng, Eric Sonnendrücker et al.. arXiv, 2024-10-31. Links: [arXiv](https://arxiv.org/abs/2410.23981). Note:  Related to fusion/plasma physics.
-- **A Study of Performance Portability in Plasma Physics Simulations** — Josef Ruzicka, Christian Asch, Esteban Meneses et al.. arXiv, 2024-10-19. Links: [arXiv](https://arxiv.org/abs/2411.05009). Note:  Related to fusion/plasma physics.
-- **Electromagnetic coil optimization for reduced Lorentz forces** — Siena Hurwitz, Matt Landreman, Alan Kaptanoglu. arXiv, 2024-10-12. Links: [arXiv](https://arxiv.org/abs/2410.09337). Note:  Related to fusion/plasma physics.
-- **Gyrokinetic Electromagnetic Particle Simulations in Triangular Meshes with C1 Finite Elements** — Zhixin Lu, Guo Meng, Roman Hatzky et al.. arXiv, 2024-10-04. Links: [arXiv](https://arxiv.org/abs/2410.03928). Note:  Related to fusion/plasma physics.
-- **Predicting Thermal Stress and Failure Risk in Monoblock Divertors Using 2D Finite Difference Modelling and Gradient Boosting Regression for Fusion Energy Applications** — Ayobami Daramola. arXiv, 2024-10-03. Links: [arXiv](https://arxiv.org/abs/2410.02368). Note:  Related to fusion/plasma physics.
-- **Magnetic mesh generation and field line reconstruction for scrape-off layer and divertor modeling in stellarators** — H. Frerichs, D. Boeyaert, Y. Feng et al.. arXiv, 2024-10-02. Links: [arXiv](https://arxiv.org/abs/2410.01139). Note:  Related to fusion/plasma physics.
-- **Tessellation-based analysis of impurity clustering in the edge plasma of tokamaks** — Zetao Lin, Thibault Maurel--Oujia, Benjamin Kadoch et al.. arXiv, 2024-09-28. Links: [arXiv](https://arxiv.org/abs/2409.19423). Note:  Related to fusion/plasma physics.
-- **AI-Machine Learning-Enabled Tokamak Digital Twin** — William Tang, Eliot Feibush, Ge Dong et al.. arXiv, 2024-09-04. Links: [arXiv](https://arxiv.org/abs/2409.03112). Note:  Related to fusion/plasma physics.
-- **Physics of the low momentum diffusivity regime in tokamaks and its experimental applicability** — Haomin Sun, Justin Ball, Stephan Brunner et al.. arXiv, 2024-08-22. Links: [arXiv](https://arxiv.org/abs/2408.12331). Note:  Related to fusion/plasma physics.
-- **Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks** — D. A. Kaltsas, L. Magafas, P. Papadopoulou et al.. arXiv, 2024-08-13. Links: [arXiv](https://arxiv.org/abs/2408.07027). Note:  Related to fusion/plasma physics.
-- **Diff-PIC: Revolutionizing Particle-In-Cell Nuclear Fusion Simulation with Diffusion Models** — Chuan Liu, Chunshu Wu, Shihui Cao et al.. arXiv, 2024-08-03. Links: [arXiv](https://arxiv.org/abs/2408.02693). Note:  Related to fusion/plasma physics.
+# 2026-05-05 21:49:37 UTC+08:00
+
+## Fusion literature update
+
+Found 2 new papers in the time window from 2026-05-04 to 2026-05-05 after checking arXiv (physics.plasm-ph category).
+
+### 1. Distributions of particles accelerated by strong Alfvénic turbulence
+**Distributions of particles accelerated by strong Alfvénic turbulence** — Stanislav Boldyrev, Daniel Humphrey, Vadim Roytershteyn. arXiv, 2026-05-04. Links: [arXiv](https://arxiv.org/abs/2605.02219). Tags: `plasma`, `magnetic fusion`.
+
+### 2. Equilibrium of a simplified coil quasi-axisymmetric stellarator: Free boundary approach
+**Equilibrium of a simplified coil quasi-axisymmetric stellarator: Free boundary approach** — Kassandra Salguero-Martínez, J. Julio E. Herrera-Velázquez. arXiv, 2026-05-04. Links: [arXiv](https://arxiv.org/abs/2605.02139). Tags: `plasma`, `magnetic fusion`.
 
 
-## Backfill unresolved / date-only
-Note: Task B scanned 5 historical intervals.
 
+Source check summary:
 
-## Source check summary
+- arXiv physics.plasm-ph: OK_PARSED; fetched 1 URL; parsed 100; keyword matched 2; added 2; deduped 0; error: none
 
-Timestamp: 2026-05-05 21:36:25 UTC+08:00
-Task A search window: (2026-05-04 21:36:25, 2026-05-05 21:36:25]
-Task A coverage: ≥24 hours
-Task B historical intervals scanned: 5
-
-| Source | URLs fetched | HTTP OK | Failed | Parsed items | Candidates | Added | Deduped | Errors |
-|---|---:|---:|---:|---:|---:|---:|---:|---|
-| arXiv physics.plasm-ph | 2 | 2 | 0 | 100 | 28 | 28 | 0 |  |
-| arXiv physics.comp-ph | 1 | 1 | 0 | 100 | 42 | 40 | 2 |  |
-| Nuclear Fusion / IOP | 2 | 1 | 1 | 1 | 0 | 0 | 0 | URL 2: curl: (22) The requested URL returned error: 404
- |
-| Plasma Physics and Controlled Fusion / IOP | 2 | 1 | 1 | 1 | 0 | 0 | 0 | URL 2: curl: (22) The requested URL returned error: 404
- |
-| Physics of Plasmas / AIP | 2 | 0 | 2 | 0 | 0 | 0 | 0 | URL 1: curl: (22) The requested URL returned error: 403
-; URL 2: curl: (22) The requested URL returned error: 403
- |
-| Journal of Plasma Physics / Cambridge | 2 | 2 | 0 | 2 | 0 | 0 | 0 |  |
-| IAEA fusion | 2 | 0 | 2 | 0 | 0 | 0 | 0 | URL 1: curl: (22) The requested URL returned error: 403
-; URL 2: curl: (22) The requested URL returned error: 403
- |
-| ITER | 2 | 2 | 0 | 2 | 0 | 0 | 0 |  |
-| EUROfusion | 1 | 1 | 0 | 1 | 0 | 0 | 0 |  |
-| PPPL | 2 | 0 | 2 | 0 | 0 | 0 | 0 | URL 1: curl: (22) The requested URL returned error: 403
-; URL 2: curl: (22) The requested URL returned error: 403
- |
-| ORNL fusion energy | 2 | 1 | 1 | 1 | 0 | 0 | 0 | URL 1: curl: (22) The requested URL returned error: 404
- |
-| Max Planck IPP | 2 | 1 | 1 | 1 | 0 | 0 | 0 | URL 1: curl: (22) The requested URL returned error: 404
- |
-| CEA IRFM | 2 | 2 | 0 | 2 | 0 | 0 | 0 |  |
-| Princeton / NSTX / PPPL fusion | 2 | 1 | 1 | 1 | 0 | 0 | 0 | URL 2: curl: (22) The requested URL returned error: 403
- |
-| **Total** | **26** | **15** | **11** | **212** | **70** | **68** | **2** | |
 
 ---
 layout: home
@@ -118,27 +25,6 @@ title: Welcome
 ---
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
-# 2026-05-05 21:24:56 UTC+08:00
-
-## Fusion literature update
-
-No new Task A papers were found in the interval (2026-05-05 20:43:06 UTC+08:00, 2026-05-05 21:24:56 UTC+08:00] after checking direct sources.
-
-### Source-check summary
-- Task A range: (2026-05-05 20:43:06 UTC+08:00, 2026-05-05 21:24:56 UTC+08:00]
-- Task B historical intervals checked: 4 intervals
-    - (2026-05-05 20:58:32, 2026-05-05 21:06:32]
-  - (2026-05-05 20:43:06, 2026-05-05 20:58:32]
-  - (2026-04-28 12:30:52, 2026-05-05 20:43:06]
-  - (2026-04-27 00:00:00, 2026-04-28 12:30:52]
-- Sources checked or attempted:
-    - arXiv: physics.plasm-ph category and recent page
-  - OpenAlex: nuclear fusion, tokamak, stellarator, plasma physics queries
-  - Crossref: multiple fusion-related queries (attempted)
-  - Task B: Historical backfill via OpenAlex for all recorded intervals
-- Task B backfill result: Found 0 backfill papers across 4 historical intervals
-
----
 
 
 # 2026-05-05 21:06:32 UTC+08:00
