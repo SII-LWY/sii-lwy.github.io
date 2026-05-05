@@ -1,30 +1,39 @@
 
-
-# 2026-05-05 21:49:37 UTC+08:00
-
-## Fusion literature update
-
-Found 2 new papers in the time window from 2026-05-04 to 2026-05-05 after checking arXiv (physics.plasm-ph category).
-
-### 1. Distributions of particles accelerated by strong Alfvénic turbulence
-**Distributions of particles accelerated by strong Alfvénic turbulence** — Stanislav Boldyrev, Daniel Humphrey, Vadim Roytershteyn. arXiv, 2026-05-04. Links: [arXiv](https://arxiv.org/abs/2605.02219). Tags: `plasma`, `magnetic fusion`.
-
-### 2. Equilibrium of a simplified coil quasi-axisymmetric stellarator: Free boundary approach
-**Equilibrium of a simplified coil quasi-axisymmetric stellarator: Free boundary approach** — Kassandra Salguero-Martínez, J. Julio E. Herrera-Velázquez. arXiv, 2026-05-04. Links: [arXiv](https://arxiv.org/abs/2605.02139). Tags: `plasma`, `magnetic fusion`.
-
-
-
-Source check summary:
-
-- arXiv physics.plasm-ph: OK_PARSED; fetched 1 URL; parsed 100; keyword matched 2; added 2; deduped 0; error: none
-
-
 ---
 layout: home
 title: Welcome
 ---
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
+
+# 2026-05-05 22:02:28 UTC+08:00
+
+## Fusion literature update
+
+### 1. Revisiting the Rheology of Neutron Star Crusts with Molecular Dynamics
+- URL: [arXiv](https://arxiv.org/abs/2605.02101)
+- Published date: 2026-05-03
+- Source / venue: arXiv
+- Summary: Explosive events from magnetars are likely due to the catastrophic release of stress in their crusts, but the behavior of crustal matter beyond linear elasticity is poorly understood. We argue here that seminal results from molecular dynamics informing crust breaking calculations are non-converged, and must be revisited. We estimate the criteria for quasi-static, rate-independent flow by comparing imposed deformation timescales to grain boundary diffusion in polycrystals.
+
+### 2. Formation of Suprathermal Electron Populations in the Expanding, Turbulent Solar Wind
+- URL: [arXiv](https://arxiv.org/abs/2605.01895)
+- Published date: 2026-05-03
+- Source / venue: arXiv
+- Summary: Nonthermal features are ubiquitously observed in electron velocity distribution functions in the solar wind, yet their origin in the collisionless, turbulent, expanding solar-wind plasma remains unclear. We investigate how solar-wind expansion and Alfvénic turbulence jointly generate and regulate these features using the first fully kinetic particle-in-cell simulation of an expanding turbulent plasma under heliospheric conditions. In our setup, expansion-driven weakening of the magnetic field adiabatically cools the plasma perpendicularly to the mean field while leaving the parallel temperature largely unchanged, driving the system toward the firehose-instability threshold.
+
+### 3. MHD simulations on the large-scale propagation of high-speed solar wind streams
+- URL: [arXiv](https://arxiv.org/abs/2605.01613)
+- Published date: 2026-05-02
+- Source / venue: arXiv
+- Summary: We investigate the propagation of high-speed solar wind streams from their origin near the Sun to 1 AU using three-dimensional magnetohydrodynamic simulations. By tracking both global stream structure and individual plasma parcels, we assess how local in-situ measurements relate to the underlying plasma evolution. We find that high-speed streams are not parcel-preserving structures: commonly used diagnostics such as peak velocity, density, or temperature do not trace fixed plasma elements, and feature-based radial trends can therefore misrepresent the true evolution.
+
+### 4. Powerful parametric instability of Alfven waves in astrophysical pair plasma
+- URL: [arXiv](https://arxiv.org/abs/2605.01445)
+- Published date: 2026-05-02
+- Source / venue: arXiv
+- Summary: We demonstrate that in highly magnetized pair plasmas, nonlinear Alfven waves with wave-number $k \leq k_0 = ω_p^2 /(δω_B)$ ($δ=( δB)/B_0$ are relative fluctuations of the magnetic field) experience powerful modulational instability. In the two-fluid approximation, we develop an analytic set-up for circularly polarized (CP) Alfven mode in its frame (where the initial configuration is stationary; it is moving with relativistic, amplitude-dependent Alfven velocity $v_A (σ, δ) $, while both charges experience different, amplitude-dependent, synchrotron gyration). PIC simulations using EPOCH code demonstrate that for Alfven waves with $k$ near $k_0$, large, parametrically-driven density fluctuations develop, and lead to fast modulational instability.
+
 
 
 # 2026-05-05 21:06:32 UTC+08:00
