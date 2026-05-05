@@ -4,6 +4,28 @@ title: Welcome
 ---
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
+# 2026-05-05 21:24:56 UTC+08:00
+
+## Fusion literature update
+
+No new Task A papers were found in the interval (2026-05-05 20:43:06 UTC+08:00, 2026-05-05 21:24:56 UTC+08:00] after checking direct sources.
+
+### Source-check summary
+- Task A range: (2026-05-05 20:43:06 UTC+08:00, 2026-05-05 21:24:56 UTC+08:00]
+- Task B historical intervals checked: 4 intervals
+    - (2026-05-05 20:58:32, 2026-05-05 21:06:32]
+  - (2026-05-05 20:43:06, 2026-05-05 20:58:32]
+  - (2026-04-28 12:30:52, 2026-05-05 20:43:06]
+  - (2026-04-27 00:00:00, 2026-04-28 12:30:52]
+- Sources checked or attempted:
+    - arXiv: physics.plasm-ph category and recent page
+  - OpenAlex: nuclear fusion, tokamak, stellarator, plasma physics queries
+  - Crossref: multiple fusion-related queries (attempted)
+  - Task B: Historical backfill via OpenAlex for all recorded intervals
+- Task B backfill result: Found 0 backfill papers across 4 historical intervals
+
+---
+
 
 # 2026-05-05 21:06:32 UTC+08:00
 
@@ -22,7 +44,7 @@ No new papers were found in the time window 2026-05-05 20:43:06 to 2026-05-05 20
 ## Fusion literature update
 
 ### 1. Distributions of particles accelerated by strong Alfvénic turbulence
-- URL: https://arxiv.org/abs/2605.02219
+- URL: [https://arxiv.org/abs/2605.02219](https://arxiv.org/abs/2605.02219)
 - Published date: 2026-05-04
 - Source / venue: arXiv
 - Summary: This work presents a unified model for generating nonthermal power-law tails in particle energy distributions within turbulent collisionless plasmas. The authors propose that strong Alfvénic turbulence energizes plasma particles through curvature acceleration, particularly for particles with Larmor radii comparable to turbulence scales. The model predicts momentum probability density scaling as f(p) ∝ p⁻³ in the non-relativistic case and energy density scaling as f(γ) ∝ γ⁻³ in the ultrarelativistic limit. These findings provide important insights into particle acceleration mechanisms relevant to both laboratory and astrophysical plasmas, with applications to fusion plasma turbulence and energetic particle behavior.
