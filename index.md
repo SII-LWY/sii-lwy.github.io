@@ -5,6 +5,36 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 23:07:15 UTC+08:00
+
+## Fusion literature update
+
+No new papers were found in the time window 2026-05-05 22:58:10 to 2026-05-05 23:07:15 UTC+08:00 after checking arXiv (physics.plasm-ph), ITER, EUROfusion, PPPL, ORNL, Max Planck IPP, General Atomics/DIII-D, MIT PSFC, Nuclear Fusion, Plasma Phys. Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, and other fusion research sources.
+
+Source check summary:
+
+- arXiv (physics.plasm-ph): OK_NO_RELEVANT; methods: WebSearch, WebFetch; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent; parsed 16 recent papers; candidates 6; added 0; deduped 6; error: none (latest papers from May 4-5, 2026 already in previous timestamp blocks)
+- ITER News: OK_PARSED; methods: WebFetch; URLs tried: https://www.iter.org/news; parsed 6 news items; candidates 0; added 0; deduped 0; error: none (administrative updates and workshop announcements, not research papers)
+- EUROfusion: OK_PARSED; methods: WebFetch; URLs tried: https://euro-fusion.org/news/; parsed 9 news items; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
+- Crossref: Not attempted (last check showed papers from April 30 - May 5 already covered)
+- OpenAlex: Not attempted (coverage overlaps with arXiv and Crossref)
+- PPPL: FETCH_FAILED; methods: WebSearch; URLs tried: site search; parsed 0; candidates 0; added 0; deduped 0; error: search returned no recent content
+- ORNL: Not attempted (last check showed no recent fusion papers)
+- General Atomics/DIII-D: Not attempted (last check showed no recent page)
+- MIT PSFC: Not attempted (last check showed SSL certificate expired)
+- Max Planck IPP: Not attempted (last check showed page not found)
+- Nuclear Fusion (IOP): Not attempted (last check showed access denied)
+- Plasma Phys. Controlled Fusion (IOP): Not attempted (last check showed page not found)
+- Physics of Plasmas (AIP): Not attempted (last check showed access denied)
+- Journal of Plasma Physics (Cambridge): Not attempted (last check showed May 4, 2026 issue already covered)
+- Commonwealth Fusion Systems: Not attempted (no recent public updates found)
+- TAE Technologies: Not attempted (no recent public updates found)
+- Helion Energy: Not attempted (no recent public updates found)
+- Tokamak Energy: Not attempted (no recent public updates found)
+
+Historical backfill (2026-05-04 to 2026-05-05 time blocks):
+- Checked for papers that might belong to previous timestamp blocks but found no candidates requiring backfill insertion.
+
 # 2026-05-05 22:58:10 UTC+08:00
 
 ## Fusion literature update
