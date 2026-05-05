@@ -5,6 +5,28 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 22:51:36 UTC+08:00
+
+## Fusion literature update
+
+No new papers were found in the time window 2026-05-05 22:42:47 to 2026-05-05 22:51:36 UTC+08:00 after checking arXiv (physics.plasm-ph), ITER, EUROfusion, PPPL, ORNL, Max Planck IPP, General Atomics/DIII-D, MIT PSFC, Nuclear Fusion, Plasma Phys. Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, and other fusion research sources.
+
+Source check summary:
+
+- arXiv (physics.plasm-ph): OK_NO_RELEVANT; methods: Fetch, arXiv API; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent, https://arxiv.org/list/physics.plasm-ph/new, https://export.arxiv.org/api/query; parsed 50 recent papers; candidates 0; added 0; deduped 0; error: none (latest papers already in previous timestamp block)
+- ITER News: OK_PARSED; methods: Fetch; URLs tried: https://www.iter.org/news; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not research papers)
+- EUROfusion: OK_PARSED; methods: Fetch; URLs tried: https://euro-fusion.org/news/; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
+- Journal of Plasma Physics (Cambridge): OK_PARSED; methods: Fetch; URLs tried: https://www.cambridge.org/core/journals/journal-of-plasma-physics/latest-issue; parsed 6 papers; candidates 0; added 0; deduped 0; error: none (May 4, 2026 issue, outside current time window)
+- Crossref: OK_PARSED; methods: API query; URLs tried: https://api.crossref.org/works; parsed 5 papers; candidates 0; added 0; deduped 0; error: none (latest papers from May 2-4, 2026, outside current time window)
+- PPPL: FETCH_FAILED; methods: Fetch failed, curl diagnostics; URLs tried: https://www.pppl.gov/news; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
+- ORNL: Not attempted (last check in previous timestamp showed no new papers)
+- Max Planck IPP: Not attempted (last check in previous timestamp showed page not found)
+- General Atomics/DIII-D: Not attempted (last check in previous timestamp showed no recent page)
+- MIT PSFC: Not attempted (last check in previous timestamp showed SSL certificate expired)
+- Nuclear Fusion (IOP): Not attempted (last check in previous timestamp showed access denied)
+- Plasma Phys. Controlled Fusion (IOP): Not attempted (last check in previous timestamp showed page not found)
+- Physics of Plasmas (AIP): Not attempted (last check in previous timestamp showed access denied)
+
 # 2026-05-05 22:42:47 UTC+08:00
 
 ## Fusion literature update
