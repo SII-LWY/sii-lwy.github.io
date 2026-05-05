@@ -5,11 +5,47 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-05-05 20:32:35 UTC+08:00
+# 2026-05-05 20:43:06 UTC+08:00
 
 ## Fusion literature update
 
-No new papers found after checking fusion-related sources (arXiv, IAEA, ITER, PPPL, ORNL, LLNL, MIT PSFC, Max Planck IPP, NIFS, JAEA, UKAEA, EAST/ASIPP, KSTAR, JT-60SA, Wendelstein 7-X, DIII-D, JET, MAST-U, SPARC/CFS, TAE, Helion, Tokamak Energy, major journals including Nuclear Fusion, Plasma Physics and Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, Fusion Engineering and Design) for the time period from 2026-04-28 12:30:52 UTC+08:00 to 2026-05-05 20:32:35 UTC+08:00.
+### 1. Distributions of particles accelerated by strong Alfvénic turbulence
+- URL: https://arxiv.org/abs/2605.02219
+- Published date: 2026-05-04
+- Source / venue: arXiv
+- Summary: This work presents a unified model for generating nonthermal power-law tails in particle energy distributions within turbulent collisionless plasmas. The authors propose that strong Alfvénic turbulence energizes plasma particles through curvature acceleration, particularly for particles with Larmor radii comparable to turbulence scales. The model predicts momentum probability density scaling as f(p) ∝ p⁻³ in the non-relativistic case and energy density scaling as f(γ) ∝ γ⁻³ in the ultrarelativistic limit. These findings provide important insights into particle acceleration mechanisms relevant to both laboratory and astrophysical plasmas, with applications to fusion plasma turbulence and energetic particle behavior.
+
+### 2. Equilibrium of a simplified coil quasi-axisymmetric stellarator: Free boundary approach
+- URL: https://arxiv.org/abs/2605.02139
+- Published date: 2026-05-04
+- Source / venue: arXiv
+- Summary: Researchers explore quasi-axisymmetric stellarator equilibria using a simplified coil configuration inspired by the Columbia Non-neutral Torus design. Using the DESC stellarator equilibrium solver, they perform single-stage neoclassical optimization with a triple product metric to minimize neoclassical transport in the low collisionality 1/ν regime. The study demonstrates quasi-axisymmetric configurations with reasonably good neoclassical transport properties, showing inverted rotational transform after optimization in best-case scenarios. This work contributes to stellarator design optimization for reduced neoclassical transport in fusion devices.
+
+### 3. Diffusion wall time in toroidally segmented shell aka Armadillo
+- URL: https://arxiv.org/abs/2605.02018
+- Published date: 2026-05-03
+- Source / venue: arXiv / Plasma Physics and Controlled Fusion
+- Summary: The authors derive an analytical expression for the diffusion wall time of toroidally segmented conducting shells (Armadillo configuration) by extending continuous-shell formulations to include non-axisymmetric current patterns from toroidal gaps. The segmentation constrains toroidal current to a standing-wave structure that vanishes at gap locations, introducing a resistivity correction that grows quadratically with gap number. The analytical formula shows agreement within 10% against 3D electromagnetic numerical calculations. This provides a compact tool for estimating wall time in segmented conducting structures, with direct applications to MHD stability and control in both RFPs and tokamaks.
+
+### 4. Computational boundary specification in 3D fixed-boundary magnetohydrodynamic equilibrium modeling
+- URL: https://arxiv.org/abs/2605.01652
+- Published date: 2026-05-03
+- Source / venue: arXiv
+- Summary: This paper addresses boundary specification issues in fixed-boundary magnetohydrodynamic equilibrium modeling for 2D and 3D domains. The authors argue that computational boundaries should be defined exterior to plasma current and pressure transition layers in vacuum-like regions where J and p approach zero. They show that without this boundary change, existing coil optimization routines for 3D toroidal equilibria (stellarators) should be modified to match free-boundary equilibrium requirements. The work derives a general algorithm for fixed-boundary 3D equilibrium solvers compatible with boundaries that are not necessarily flux surfaces or isobars, offering improved accuracy for fusion device design.
+
+### 5. Conductor-Insulator Crossover in the Steady-State Ultracold Plasmas
+- URL: https://arxiv.org/abs/2605.01598
+- Published date: 2026-05-02
+- Source / venue: arXiv
+- Summary: The authors present a theoretical model of ionization-recombination balance in ultracold Rydberg gas-plasma mixtures driven by collective processes. Their calculations predict a sharp crossover from insulating phase (Rydberg gas) to conducting phase (plasma) with increasing particle density, closely resembling Mott transition in condensed-matter physics. This crossover phenomenon is particularly relevant to steady-state ultracold plasmas obtained in recent experiments. The work bridges plasma physics with condensed matter concepts and has implications for understanding plasma formation and phase transitions in laboratory plasmas.
+
+### 6. High-throughput full-f gyrokinetics of the tokamak boundary
+- URL: https://arxiv.org/abs/2605.01117
+- Published date: 2026-05-01
+- Source / venue: arXiv
+- Summary: This study demonstrates a paradigm shift in full-f boundary gyrokinetic simulations through hundreds of concurrent simulations covering both closed flux surface regions and open-field-line scrape-off layers. The work uses a TCV-inspired geometry while scanning triangularity, elongation, and heating power. Analysis reveals that plasma shaping impacts are strongly power-dependent: at low power, triangularity primarily controls SOL ion temperature, while at high power it mostly affects edge ion temperature gradient. The observed hot SOL for positive triangularity is explained by a neoclassical trapped-ion mechanism. The generated open data serves as a benchmark for boundary transport models and training data for machine learning methods in fusion research.
+
+# 2026-04-28 12:30:52 UTC+08:00
 
 
 
