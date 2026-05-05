@@ -5,6 +5,12 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 20:58:32 UTC+08:00
+
+## Fusion literature update
+
+No new papers were found in the time window 2026-05-05 20:43:06 to 2026-05-05 20:58:32 UTC+08:00 after checking arXiv (physics.plasm-ph and 18 fusion-related keyword queries), OpenAlex (14 fusion-related queries), and Crossref. Searches were conducted across multiple bibliographic sources. Task B historical backfill was not performed in this run.
+
 # 2026-05-05 20:43:06 UTC+08:00
 
 ## Fusion literature update
@@ -44,21 +50,6 @@ title: Welcome
 - Published date: 2026-05-01
 - Source / venue: arXiv
 - Summary: This study demonstrates a paradigm shift in full-f boundary gyrokinetic simulations through hundreds of concurrent simulations covering both closed flux surface regions and open-field-line scrape-off layers. The work uses a TCV-inspired geometry while scanning triangularity, elongation, and heating power. Analysis reveals that plasma shaping impacts are strongly power-dependent: at low power, triangularity primarily controls SOL ion temperature, while at high power it mostly affects edge ion temperature gradient. The observed hot SOL for positive triangularity is explained by a neoclassical trapped-ion mechanism. The generated open data serves as a benchmark for boundary transport models and training data for machine learning methods in fusion research.
-
-# 2026-04-28 12:30:52 UTC+08:00
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 2026-04-28 12:30:52 UTC+08:00
 
