@@ -5,6 +5,31 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 23:26:26 UTC+08:00
+
+## Fusion literature update
+
+No new papers were found in the time window 2026-05-05 23:21:46 to 2026-05-05 23:26:26 UTC+08:00 after checking Nuclear Fusion, Plasma Physics and Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, Fusion Engineering and Design, Review of Scientific Instruments, and other fusion research sources using exact-container-title filtering.
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 rate limit
+- Plasma Physics and Controlled Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 5 (wrong journals); exact-journal candidates 0; added 0; deduped 0; rejected 5 (Communications Physics, J.Physics-Photonics, J.Fusion Energy, J.Chemical Physics - filtered by container-title)
+- Physics of Plasmas (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; error: 429 rate limit
+- Review of Scientific Instruments (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; error: 429 rate limit
+- Nuclear Fusion (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Stellarator search (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma confinement search (OpenAlex): OK_PARSED; methods: OpenAlex source filter; parsed 1 (Research Square preprint); candidates 0; added 0; deduped 0; rejected 1 (not from target journal)
+- arXiv (physics.plasm-ph): OK_PARSED; fetched recent listings; parsed 11 items; candidates 0; added 0; deduped 11 (already present in earlier updates); error: none
+
+
 # 2026-05-05 23:21:46 UTC+08:00
 
 ## Fusion literature update
@@ -14,22 +39,6 @@ title: Welcome
 - Published date: 2026-05-01
 - Source / venue: Nuclear Fusion
 - Summary: This paper presents recent advances in computational modeling of 3D transient plasma dynamics and control in tokamak devices using the JOREK code. The research combines magnetohydrodynamic (MHD) and hybrid fluid-kinetic simulation approaches to better understand and predict plasma behavior during transient events. The work enables improved control strategies for mitigating disruptions and other instabilities in fusion reactors, directly contributing to the development of more stable and efficient tokamak operations for future fusion power plants.
-
-
-Source check summary:
-
-- Nuclear Fusion (Crossref): OK_PARSED; fetched Crossref URL; parsed 1 journal article; candidates 1; added 1; deduped 0; error: none
-- Plasma Physics and Controlled Fusion (Crossref): OK_PARSED; fetched Crossref URL; parsed 1 journal article; candidates 1; added 0; deduped 1; error: none (arXiv version already present in last update)
-- Physics of Plasmas (Crossref): OK_PARSED; fetched Crossref URL; parsed multiple items; candidates 0; added 0; deduped 0; error: none (no relevant recent papers in window)
-- Journal of Plasma Physics (Crossref): OK_PARSED; fetched Crossref URL; parsed multiple items; candidates 0; added 0; deduped 0; error: none (no relevant recent papers in window)
-- Tokamak search (Crossref): OK_PARSED; queried bibliographic field; parsed 22 items; candidates 2; added 1; deduped 1; error: none
-- Stellarator search (Crossref): OK_PARSED; queried bibliographic field; parsed 3 items; candidates 0; added 0; deduped 0; error: none
-- Plasma confinement search (Crossref): OK_PARSED; queried bibliographic field; parsed large set; candidates 0; added 0; deduped 0; error: none (non-fusion papers filtered)
-- Fusion plasma search (Crossref): OK_PARSED; queried bibliographic field; parsed large set; candidates 0; added 0; deduped 0; error: none (non-fusion papers filtered)
-- Tokamak search (OpenAlex): OK_PARSED; fetched 50 items; parsed 12 results; candidates 1; added 0; deduped 1; error: none (preprint version matches existing paper)
-- Fusion plasma search (OpenAlex): OK_PARSED; fetched 50 items; parsed 160 results; candidates 0; added 0; deduped 0; error: none (filtered out non-journal items)
-- Stellarator search (OpenAlex): OK_PARSED; fetched 50 items; parsed 6 results; candidates 0; added 0; deduped 0; error: none
-- arXiv (physics.plasm-ph): OK_PARSED; fetched recent listings; parsed 41 items; candidates 0; added 0; deduped 0; error: none (no new postings since last check)
 
 
 # 2026-05-05 23:16:52 UTC+08:00
