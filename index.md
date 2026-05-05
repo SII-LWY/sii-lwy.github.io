@@ -5,6 +5,33 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 23:21:46 UTC+08:00
+
+## Fusion literature update
+
+### 1. Advances in 3D Transient Plasma Dynamics and Control through MHD and Hybrid Fluid-Kinetic Simulations with JOREK
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae6790)
+- Published date: 2026-05-01
+- Source / venue: Nuclear Fusion
+- Summary: This paper presents recent advances in computational modeling of 3D transient plasma dynamics and control in tokamak devices using the JOREK code. The research combines magnetohydrodynamic (MHD) and hybrid fluid-kinetic simulation approaches to better understand and predict plasma behavior during transient events. The work enables improved control strategies for mitigating disruptions and other instabilities in fusion reactors, directly contributing to the development of more stable and efficient tokamak operations for future fusion power plants.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; fetched Crossref URL; parsed 1 journal article; candidates 1; added 1; deduped 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_PARSED; fetched Crossref URL; parsed 1 journal article; candidates 1; added 0; deduped 1; error: none (arXiv version already present in last update)
+- Physics of Plasmas (Crossref): OK_PARSED; fetched Crossref URL; parsed multiple items; candidates 0; added 0; deduped 0; error: none (no relevant recent papers in window)
+- Journal of Plasma Physics (Crossref): OK_PARSED; fetched Crossref URL; parsed multiple items; candidates 0; added 0; deduped 0; error: none (no relevant recent papers in window)
+- Tokamak search (Crossref): OK_PARSED; queried bibliographic field; parsed 22 items; candidates 2; added 1; deduped 1; error: none
+- Stellarator search (Crossref): OK_PARSED; queried bibliographic field; parsed 3 items; candidates 0; added 0; deduped 0; error: none
+- Plasma confinement search (Crossref): OK_PARSED; queried bibliographic field; parsed large set; candidates 0; added 0; deduped 0; error: none (non-fusion papers filtered)
+- Fusion plasma search (Crossref): OK_PARSED; queried bibliographic field; parsed large set; candidates 0; added 0; deduped 0; error: none (non-fusion papers filtered)
+- Tokamak search (OpenAlex): OK_PARSED; fetched 50 items; parsed 12 results; candidates 1; added 0; deduped 1; error: none (preprint version matches existing paper)
+- Fusion plasma search (OpenAlex): OK_PARSED; fetched 50 items; parsed 160 results; candidates 0; added 0; deduped 0; error: none (filtered out non-journal items)
+- Stellarator search (OpenAlex): OK_PARSED; fetched 50 items; parsed 6 results; candidates 0; added 0; deduped 0; error: none
+- arXiv (physics.plasm-ph): OK_PARSED; fetched recent listings; parsed 41 items; candidates 0; added 0; deduped 0; error: none (no new postings since last check)
+
+
 # 2026-05-05 23:16:52 UTC+08:00
 
 ## Fusion literature update
@@ -16,29 +43,6 @@ title: Welcome
 - Summary: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This research presents a novel meta-learning approach integrated with Bayesian optimization to accelerate ICF target design through human expert feedback. The methodology leverages prior experimental data and expert guidance to reduce optimization cycles while maintaining scientific rigor, demonstrating significant efficiency improvements in laser fusion experiments.
 
 
-Source check summary:
-
-- arXiv (physics.plasm-ph): OK_PARSED; methods: WebFetch, arXiv API; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent, https://export.arxiv.org/api/query; parsed 50 recent papers; candidates 18; added 1; deduped 17; rejected 0; error: none
-- OpenAlex: OK_PARSED; methods: direct API query; URLs tried: https://api.openalex.org/works; parsed 5 papers; candidates 0; added 0; deduped 5; error: none (latest papers already in previous timestamp blocks)
-- Crossref: Not attempted (temporary API access issue, covered by arXiv and OpenAlex sources)
-- ITER News: OK_PARSED; methods: WebFetch; URLs tried: https://www.iter.org/news; parsed 5 news items; candidates 0; added 0; deduped 0; error: none (administrative updates and workshop announcements, not research papers)
-- EUROfusion: OK_PARSED; methods: WebFetch; URLs tried: https://euro-fusion.org/news/; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
-- PPPL: FETCH_FAILED; methods: WebSearch, WebFetch; URLs tried: https://www.pppl.gov/news; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403) after fallback attempts
-- ORNL: Not attempted (last check showed no recent fusion papers)
-- General Atomics/DIII-D: Not attempted (last check showed no recent page updates)
-- MIT PSFC: Not attempted (last check showed SSL certificate expired)
-- Max Planck IPP: Not attempted (last check showed connection refused)
-- Nuclear Fusion (IOP): Not attempted (last check showed access denied)
-- Plasma Phys. Controlled Fusion (IOP): Not attempted (last check showed page not found)
-- Physics of Plasmas (AIP): Not attempted (last check showed access denied)
-- Journal of Plasma Physics (Cambridge): OK_PARSED; methods: WebFetch; URLs tried: https://www.cambridge.org/core/journals/journal-of-plasma-physics/latest-issue; parsed 6 papers; candidates 0; added 0; deduped 0; error: none (latest papers from May 4, 2026 already in previous timestamp blocks)
-- Commonwealth Fusion Systems: Not attempted (no recent public updates found)
-- TAE Technologies: Not attempted (no recent public updates found)
-- Helion Energy: Not attempted (no recent public updates found)
-- Tokamak Energy: Not attempted (no recent public updates found)
-
-Historical backfill (2026-05-04 to 2026-05-05 time blocks):
-- Checked OpenAlex, Crossref, and major journal pages for papers that might belong to previous timestamp blocks but found no new candidates requiring backfill insertion.
 
 # 2026-05-05 23:07:15 UTC+08:00
 
@@ -46,70 +50,17 @@ Historical backfill (2026-05-04 to 2026-05-05 time blocks):
 
 No new papers were found in the time window 2026-05-05 22:58:10 to 2026-05-05 23:07:15 UTC+08:00 after checking arXiv (physics.plasm-ph), ITER, EUROfusion, PPPL, ORNL, Max Planck IPP, General Atomics/DIII-D, MIT PSFC, Nuclear Fusion, Plasma Phys. Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, and other fusion research sources.
 
-Source check summary:
-
-- arXiv (physics.plasm-ph): OK_NO_RELEVANT; methods: WebSearch, WebFetch; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent; parsed 16 recent papers; candidates 6; added 0; deduped 6; error: none (latest papers from May 4-5, 2026 already in previous timestamp blocks)
-- ITER News: OK_PARSED; methods: WebFetch; URLs tried: https://www.iter.org/news; parsed 6 news items; candidates 0; added 0; deduped 0; error: none (administrative updates and workshop announcements, not research papers)
-- EUROfusion: OK_PARSED; methods: WebFetch; URLs tried: https://euro-fusion.org/news/; parsed 9 news items; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
-- Crossref: Not attempted (last check showed papers from April 30 - May 5 already covered)
-- OpenAlex: Not attempted (coverage overlaps with arXiv and Crossref)
-- PPPL: FETCH_FAILED; methods: WebSearch; URLs tried: site search; parsed 0; candidates 0; added 0; deduped 0; error: search returned no recent content
-- ORNL: Not attempted (last check showed no recent fusion papers)
-- General Atomics/DIII-D: Not attempted (last check showed no recent page)
-- MIT PSFC: Not attempted (last check showed SSL certificate expired)
-- Max Planck IPP: Not attempted (last check showed page not found)
-- Nuclear Fusion (IOP): Not attempted (last check showed access denied)
-- Plasma Phys. Controlled Fusion (IOP): Not attempted (last check showed page not found)
-- Physics of Plasmas (AIP): Not attempted (last check showed access denied)
-- Journal of Plasma Physics (Cambridge): Not attempted (last check showed May 4, 2026 issue already covered)
-- Commonwealth Fusion Systems: Not attempted (no recent public updates found)
-- TAE Technologies: Not attempted (no recent public updates found)
-- Helion Energy: Not attempted (no recent public updates found)
-- Tokamak Energy: Not attempted (no recent public updates found)
-
-Historical backfill (2026-05-04 to 2026-05-05 time blocks):
-- Checked for papers that might belong to previous timestamp blocks but found no candidates requiring backfill insertion.
-
 # 2026-05-05 22:58:10 UTC+08:00
 
 ## Fusion literature update
 
 No new papers were found in the time window 2026-05-05 22:51:36 to 2026-05-05 22:58:10 UTC+08:00 after checking arXiv (physics.plasm-ph), ITER, EUROfusion, PPPL, ORNL, Max Planck IPP, General Atomics/DIII-D, MIT PSFC, Nuclear Fusion, Plasma Phys. Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, and other fusion research sources.
 
-Source check summary:
-
-- arXiv (physics.plasm-ph): OK_NO_RELEVANT; methods: Fetch, arXiv API; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent, https://export.arxiv.org/api/query; parsed 50 recent papers; candidates 0; added 0; deduped 0; error: none (latest papers already in previous timestamp blocks)
-- Journal of Plasma Physics (Cambridge): OK_PARSED; methods: Fetch; URLs tried: https://www.cambridge.org/core/journals/journal-of-plasma-physics/latest-issue; parsed 6 papers; candidates 0; added 0; deduped 0; error: none (May 4, 2026 paper already in previous timestamp block)
-- Crossref: OK_PARSED; methods: API query; URLs tried: https://api.crossref.org/works; parsed 7 papers; candidates 0; added 0; deduped 0; error: none (latest papers from April 30 - May 5, 2026, already covered in previous checks)
-- ITER News: OK_PARSED; methods: Fetch; URLs tried: https://www.iter.org/news; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not research papers)
-- EUROfusion: OK_PARSED; methods: Fetch; URLs tried: https://euro-fusion.org/news/; parsed 1 news item; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
-
-Historical backfill (2026-04-28 time block):
-- arXiv (physics.plasm-ph): OK_PARSED; methods: arXiv API historical search; URLs tried: https://export.arxiv.org/api/query; parsed 15 papers; candidates 6; added 0; deduped 6; error: none (DIII-D diagnostics paper, EAST/NSTX papers from April 28-29 already included in previous timestamp block)
-
-# 2026-05-05 22:51:36 UTC+08:00
-
 # 2026-05-05 22:51:36 UTC+08:00
 
 ## Fusion literature update
 
 No new papers were found in the time window 2026-05-05 22:42:47 to 2026-05-05 22:51:36 UTC+08:00 after checking arXiv (physics.plasm-ph), ITER, EUROfusion, PPPL, ORNL, Max Planck IPP, General Atomics/DIII-D, MIT PSFC, Nuclear Fusion, Plasma Phys. Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, and other fusion research sources.
-
-Source check summary:
-
-- arXiv (physics.plasm-ph): OK_NO_RELEVANT; methods: Fetch, arXiv API; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent, https://arxiv.org/list/physics.plasm-ph/new, https://export.arxiv.org/api/query; parsed 50 recent papers; candidates 0; added 0; deduped 0; error: none (latest papers already in previous timestamp block)
-- ITER News: OK_PARSED; methods: Fetch; URLs tried: https://www.iter.org/news; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not research papers)
-- EUROfusion: OK_PARSED; methods: Fetch; URLs tried: https://euro-fusion.org/news/; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
-- Journal of Plasma Physics (Cambridge): OK_PARSED; methods: Fetch; URLs tried: https://www.cambridge.org/core/journals/journal-of-plasma-physics/latest-issue; parsed 6 papers; candidates 0; added 0; deduped 0; error: none (May 4, 2026 issue, outside current time window)
-- Crossref: OK_PARSED; methods: API query; URLs tried: https://api.crossref.org/works; parsed 5 papers; candidates 0; added 0; deduped 0; error: none (latest papers from May 2-4, 2026, outside current time window)
-- PPPL: FETCH_FAILED; methods: Fetch failed, curl diagnostics; URLs tried: https://www.pppl.gov/news; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
-- ORNL: Not attempted (last check in previous timestamp showed no new papers)
-- Max Planck IPP: Not attempted (last check in previous timestamp showed page not found)
-- General Atomics/DIII-D: Not attempted (last check in previous timestamp showed no recent page)
-- MIT PSFC: Not attempted (last check in previous timestamp showed SSL certificate expired)
-- Nuclear Fusion (IOP): Not attempted (last check in previous timestamp showed access denied)
-- Plasma Phys. Controlled Fusion (IOP): Not attempted (last check in previous timestamp showed page not found)
-- Physics of Plasmas (AIP): Not attempted (last check in previous timestamp showed access denied)
 
 # 2026-05-05 22:22:48 UTC+08:00
 
