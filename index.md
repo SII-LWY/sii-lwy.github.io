@@ -5,6 +5,25 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-05 22:58:10 UTC+08:00
+
+## Fusion literature update
+
+No new papers were found in the time window 2026-05-05 22:51:36 to 2026-05-05 22:58:10 UTC+08:00 after checking arXiv (physics.plasm-ph), ITER, EUROfusion, PPPL, ORNL, Max Planck IPP, General Atomics/DIII-D, MIT PSFC, Nuclear Fusion, Plasma Phys. Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, and other fusion research sources.
+
+Source check summary:
+
+- arXiv (physics.plasm-ph): OK_NO_RELEVANT; methods: Fetch, arXiv API; URLs tried: https://arxiv.org/list/physics.plasm-ph/recent, https://export.arxiv.org/api/query; parsed 50 recent papers; candidates 0; added 0; deduped 0; error: none (latest papers already in previous timestamp blocks)
+- Journal of Plasma Physics (Cambridge): OK_PARSED; methods: Fetch; URLs tried: https://www.cambridge.org/core/journals/journal-of-plasma-physics/latest-issue; parsed 6 papers; candidates 0; added 0; deduped 0; error: none (May 4, 2026 paper already in previous timestamp block)
+- Crossref: OK_PARSED; methods: API query; URLs tried: https://api.crossref.org/works; parsed 7 papers; candidates 0; added 0; deduped 0; error: none (latest papers from April 30 - May 5, 2026, already covered in previous checks)
+- ITER News: OK_PARSED; methods: Fetch; URLs tried: https://www.iter.org/news; parsed 3 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not research papers)
+- EUROfusion: OK_PARSED; methods: Fetch; URLs tried: https://euro-fusion.org/news/; parsed 1 news item; candidates 0; added 0; deduped 0; error: none (latest from April 28, 2026, not within time window)
+
+Historical backfill (2026-04-28 time block):
+- arXiv (physics.plasm-ph): OK_PARSED; methods: arXiv API historical search; URLs tried: https://export.arxiv.org/api/query; parsed 15 papers; candidates 6; added 0; deduped 6; error: none (DIII-D diagnostics paper, EAST/NSTX papers from April 28-29 already included in previous timestamp block)
+
+# 2026-05-05 22:51:36 UTC+08:00
+
 # 2026-05-05 22:51:36 UTC+08:00
 
 ## Fusion literature update
@@ -26,28 +45,6 @@ Source check summary:
 - Nuclear Fusion (IOP): Not attempted (last check in previous timestamp showed access denied)
 - Plasma Phys. Controlled Fusion (IOP): Not attempted (last check in previous timestamp showed page not found)
 - Physics of Plasmas (AIP): Not attempted (last check in previous timestamp showed access denied)
-
-# 2026-05-05 22:42:47 UTC+08:00
-
-## Fusion literature update
-
-No new papers were found in the time window 2026-05-05 22:22:48 to 2026-05-05 22:42:47 UTC+08:00 after checking arXiv (physics.plasm-ph), ITER, EUROfusion, PPPL, ORNL, Max Planck IPP, General Atomics/DIII-D, MIT PSFC, Nuclear Fusion, Plasma Phys. Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, and other fusion research sources.
-
-Source check summary:
-
-- arXiv (physics.plasm-ph): OK_NO_RELEVANT; fetched 1 URL; parsed 41 papers; candidates 0; added 0; deduped 0; error: none (latest papers already in previous update block)
-- ITER: OK_PARSED; fetched 1 URL; parsed 2 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not research papers within time window)
-- EUROfusion: OK_PARSED; fetched 1 URL; parsed 4 news items; candidates 0; added 0; deduped 0; error: none (administrative updates, not research papers within time window)
-- Journal of Plasma Physics (Cambridge): OK_PARSED; fetched 1 URL; parsed 10 papers; candidates 0; added 0; deduped 0; error: none (April 2026 issue, outside current time window)
-- PPPL: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
-- ORNL: OK_NO_RELEVANT; fetched 1 URL; parsed 1 item; candidates 0; added 0; deduped 0; error: none (no new fusion papers within time window)
-- Max Planck IPP: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page not found (404)
-- General Atomics/DIII-D: OK_NO_RELEVANT; fetched 1 URL; parsed 0; candidates 0; added 0; deduped 0; error: no recent publications page found
-- MIT PSFC: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: SSL certificate expired
-- Nuclear Fusion (IOP): FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
-- Plasma Phys. Controlled Fusion: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: page not found (404)
-- Physics of Plasmas (AIP): FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
-- Fusion Engineering and Design: FETCH_FAILED; fetched 0 URLs; parsed 0; candidates 0; added 0; deduped 0; error: access denied (403)
 
 # 2026-05-05 22:22:48 UTC+08:00
 
