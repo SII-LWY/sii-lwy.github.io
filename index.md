@@ -5,6 +5,40 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-07 05:07:16 UTC+08:00
+
+## Fusion literature update
+
+### 1. iGENE: A Differentiable Flux-Tube Gyrokinetic Code in TensorFlow
+- URL: [arXiv](https://arxiv.org/abs/2605.03086)
+- Published date: 2026-05-04
+- Source / venue: arXiv
+- Summary: This paper presents iGENE, a fully differentiable TensorFlow implementation of the electromagnetic local nonlinear gyrokinetic model. The code enables automatic differentiation to compute gradients of any simulation output with respect to any input parameter, even in the presence of turbulent stochasticity that complicates gradient evaluation. This work represents a significant advancement in computational plasma physics by enabling gyrokinetic simulations to be integrated into automated parameter optimization, uncertainty quantification, sensitivity analysis, and AI-driven workflows, which could accelerate fusion reactor design and plasma turbulence understanding.
+
+### 2. Hybrid simulation of the energy cost of O(¹D) and O(³P) generation in a capacitive Ar/O₂ discharge driven by sawtooth-type voltage waveforms
+- URL: [arXiv](https://arxiv.org/abs/2605.03422)
+- Published date: 2026-05-05
+- Source / venue: arXiv
+- Summary: This research investigates fundamental plasma processes in capacitively coupled Ar/O₂ discharges driven by sawtooth voltage waveforms, examining the energy cost of generating different oxygen species (O(¹D) and O(³P)). The study reveals that O(³P) generation is more efficient than O(¹D), and identifies a discharge mode transition from DA to α-DA hybrid mode at specific gas ratios. While focused on plasma processing applications, these fundamental plasma physics insights into waveform-driven discharges, ionization processes, and electron energy dynamics contribute to the broader understanding of plasma behavior relevant to both industrial and fusion applications.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 rate limit
+- Plasma Physics and Controlled Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 rate limit
+- Physics of Plasmas (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 rate limit
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_PARSED; fetched recent listings (2026-05-06 to 2026-05-07); parsed 46 items; candidates 2; added 2; deduped 44 (papers already present: 2605.03740, 2605.03599, 2605.02219, 2605.02139, 2605.02018, 2605.01652, 2605.01598, 2605.01117, 2605.00624, 2605.00165, and others); rejected 0; error: none
+
+
+
 # 2026-05-06 19:26:12 UTC+08:00
 
 ## Fusion literature update
