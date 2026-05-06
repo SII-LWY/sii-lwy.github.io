@@ -1,2 +1,7 @@
+.ipynb_checkpoints
 *.ipynb_checkpoints
-*.claude
+*.swp
+*.swo
+*~
+.DS_Store
+.claude/scheduled_tasks.json
