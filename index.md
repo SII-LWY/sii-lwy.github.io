@@ -5,6 +5,51 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-06 19:26:12 UTC+08:00
+
+## Fusion literature update
+
+### 1. CORRIGENDUM: Modeling snowflake divertors in MAST-U Tokamak (2022 Nucl. Fusion 62 016007)
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ad4f58)
+- Published date: 2026-06-01 (online: 2026-05-06)
+- Source / venue: Nuclear Fusion
+- Summary: This corrigendum provides corrections to a previous publication on snowflake divertor modeling in the MAST-U tokamak. Snowflake divertor configurations offer improved heat flux distribution and particle control compared to standard divertor geometries, which is critical for managing power exhaust in future fusion reactors. The corrections ensure accurate representation of divertor physics simulations important for ITER and DEMO reactor designs.
+
+### 2. Rapid damping of magnetic turbulence induced by collisional merging process of field-reversed configurations
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ad4f61)
+- Published date: 2026-06-01 (online: 2026-05-06)
+- Source / venue: Nuclear Fusion
+- Summary: This research investigates the damping of magnetic turbulence during the collisional merging process of field-reversed configurations (FRCs) at super-Alfvénic speeds. The study reveals rapid damping of high-frequency turbulence components following collision, suggesting that kinetic effects play important roles in plasma heating and energy transfer. The findings have implications for FRC-based fusion reactor designs and plasma heating mechanisms during magnetic reconnection events in compact toroidal systems.
+
+### 3. Assessing the role of ITER ECE oblique view in resolving non-thermal emissions
+- URL: [arXiv](https://arxiv.org/abs/2605.03740)
+- Published date: 2026-05-06
+- Source / venue: arXiv
+- Summary: This paper investigates electron cyclotron emission (ECE) measurements for ITER using oblique viewing angles to better resolve non-thermal emission features. ECE diagnostics are essential for measuring electron temperature profiles and fluctuations in tokamak plasmas, but non-thermal effects from energetic electrons can complicate interpretation. The study addresses how oblique viewing geometries can improve the detection and characterization of non-thermal electron populations, providing critical diagnostic capabilities for ITER's burning plasma operations.
+
+### 4. A programmable stellarator-tokamak hybrid for million-scale magnetic-configuration discovery
+- URL: [arXiv](https://arxiv.org/abs/2605.03599)
+- Published date: 2026-05-06
+- Source / venue: arXiv
+- Summary: Researchers propose a novel programmable hybrid fusion device that combines stellarator and tokamak magnetic configuration concepts to enable large-scale discovery of optimized magnetic geometries. The design allows rapid switching between different magnetic configurations, facilitating systematic studies of confinement optimization, stability properties, and neoclassical transport across parameter spaces. This approach represents a paradigm shift toward machine-learning-accelerated fusion device design, where millions of configurations can be explored to identify optimal operating regimes for future compact fusion reactors with improved performance and reduced size.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 2 items; exact-journal candidates 2; added 2; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 rate limit (API temporarily unavailable)
+- Physics of Plasmas (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 rate limit
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 rate limit
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_PARSED; fetched recent listings (2026-05-05 to 2026-05-06); parsed 9 items; candidates 2 (new papers not in previous index); added 2; deduped 7 (papers already present: 2605.02219, 2605.02139, 2605.02018, 2605.01652, 2605.01598, 2605.01117, 2605.00068); rejected 0; error: none
+
+
 # 2026-05-05 23:26:26 UTC+08:00
 
 ## Fusion literature update
