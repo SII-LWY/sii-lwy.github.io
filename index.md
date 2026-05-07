@@ -5,6 +5,48 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-07 19:57:35 UTC+08:00
+
+## Fusion literature update
+
+### 1. SPARC tokamak error field expectations and physics-based correction coil design
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae6086)
+- Published date: 2026-05-07
+- Source / venue: Nuclear Fusion
+- Summary: This study investigates error field amplitudes expected in the SPARC tokamak and presents a physics-based correction coil design. Error fields arise from small but unavoidable deviations in coil positioning and can drive locked modes, neoclassical tearing modes, and other instabilities that degrade plasma confinement. The analysis quantifies expected error field magnitudes and proposes an optimal correction coil configuration that minimizes their impact on plasma stability and performance, important for stable high-performance plasma operations in SPARC's compact high-field design.
+
+### 2. Gamma-ray spectrometry for burning plasma scenario developments
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae5de1)
+- Published date: 2026-05-07
+- Source / venue: Nuclear Fusion
+- Summary: This work introduces gamma-ray spectrometry as a diagnostic tool for the development of advanced burning plasma scenarios in fusion devices. Gamma-ray emission from nuclear reactions between fast ions and plasma impurities provides unique information on fast ion dynamics, fuel ion density, and heating efficiency. The study demonstrates how gamma-ray measurements can monitor fast ion confinement, diagnose fusion power production, and validate burning plasma physics models, offering critical capabilities for ITER and future fusion reactors operating under burning plasma conditions.
+
+### 3. Rotating n = 2 resonant magnetic perturbation modifies nitrogen radiation near the X-point on EAST
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae63e3)
+- Published date: 2026-05-07
+- Source / venue: Nuclear Fusion
+- Summary: Experimental results from the EAST tokamak demonstrate that rotating n = 2 resonant magnetic perturbations (RMPs) can effectively modify the nitrogen radiation distribution near the X-point during divertor operations. RMP fields penetrate the plasma edge and modify edge plasma transport, leading to improved divertor detachment control and reduced heat flux to divertor targets. The rotating RMP approach offers a promising method for active control of edge-localized modes, divertor heat loads, and particle exhaust in steady-state tokamak operations, directly relevant to power exhaust challenges in ITER and DEMO.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 6 items; exact-journal candidates 3; added 3; deduped 0; rejected 3 (wrong journals - nuclear medicine); error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_PARSED; fetched recent listings (2026-05-06 to 2026-05-07); parsed 46 items; candidates 0 (all within window already present in index.md); added 0; deduped 46; rejected 0; error: none
+
+
 # 2026-05-07 05:07:16 UTC+08:00
 
 ## Fusion literature update
