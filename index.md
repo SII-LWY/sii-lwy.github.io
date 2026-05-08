@@ -5,6 +5,88 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-08 09:38:00 UTC+08:00
+
+## Fusion literature update
+
+### 1. Synthetic model of gamma-ray emission during DT experiments on the SPARC tokamak
+- URL: [arXiv](http://arxiv.org/abs/2605.04248)
+- Published date: 2026-05-07
+- Source / venue: arXiv physics.plasm-ph
+- Summary: This paper develops a synthetic diagnostic for gamma-ray emission modeling during deuterium-tritium (DT) experiments on the SPARC tokamak. Gamma-ray measurements provide critical information about fast ion physics, fusion power production, and plasma performance in compact high-field tokamaks. The model combines transport simulations with nuclear reaction cross-sections to predict gamma-ray emission profiles during SPARC DT operations, enabling validation of fast ion confinement models and characterization of alpha particle physics in burning plasma conditions.
+
+### 2. Yinsen: A low power density HTS tokamak fusion reactor for marine and off-grid applications
+- URL: [arXiv](http://arxiv.org/abs/2605.04190)
+- Published date: 2026-05-07
+- Source / venue: arXiv physics.plasm-ph
+- Summary: This conceptual design study presents Yinsen, a compact tokamak fusion reactor utilizing high-temperature superconductor (HTS) magnets for marine propulsion and off-grid power applications. The reactor design prioritizes low power density operation to achieve steady-state plasma conditions with reduced engineering constraints compared to conventional high-field tokamaks. The analysis covers plasma physics performance, magnet engineering, blanket design, and economic feasibility, demonstrating the potential for fusion power in specialized applications requiring compact, mobile energy sources.
+
+### 3. Breakeven Conditions for Beam-Target Fusion with Electron-Suppressed Targets
+- URL: [arXiv](http://arxiv.org/abs/2605.04104)
+- Published date: 2026-05-07
+- Source / venue: arXiv physics.plasm-ph
+- Summary: This theoretical work investigates the physical conditions required to achieve breakeven in beam-target fusion systems where electron interactions are suppressed to reduce losses. Beam-target fusion offers an alternative approach to magnetically confined fusion but typically suffers from low gain due to energy losses to electrons. By analyzing the interplay between beam energy, target density, confinement time, and electron screening effects, this study identifies parameter regimes where net energy gain could be achievable, with implications for compact fusion neutron sources and alternative fusion concepts.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 8 items; exact-journal candidates 4; added 0 (already present in previous update); deduped 4; rejected 4 (wrong journals: 2 from J. Nuclear Eng., 1 from Nucl. Med., 1 from Plasma Phys. Controlled Fusion); error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 2 items; exact-journal candidates 2; added 0; deduped 2 (already present from previous Nuclear Fusion check); rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_PARSED; methods: arXiv recent listings; parsed 10 items; candidates 3; added 3; deduped 7 (already present or not fusion); rejected 0; error: none
+
+# 2026-05-08 09:02:26 UTC+08:00
+
+## Fusion literature update
+
+### 1. Investigation of inflow during sawtooth crashes using two-color soft x-ray system in JT-60SA integrated commissioning phase
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae69f8)
+- Published date: 2026-05-07
+- Source / venue: Nuclear Fusion
+- Summary: This paper presents experimental observations of sawtooth crash dynamics during the JT-60SA integrated commissioning phase using a high-resolution two-color soft x-ray diagnostic system. Sawtooth crashes are periodic core-localized relaxation events in tokamak plasmas that can trigger secondary instabilities and impact plasma confinement. The two-color measurement technique enables improved characterization of electron temperature evolution and impurity transport during crash events, providing critical data for understanding sawtooth physics and developing predictive models for ITER and future fusion reactors.
+
+### 2. How does the magnetic gradient scale length influence complexity of filamentary coils in stellarators?
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae69fa)
+- Published date: 2026-05-07
+- Source / venue: Nuclear Fusion
+- Summary: This theoretical study investigates the relationship between magnetic gradient scale lengths and the engineering complexity of modular stellarator coils. Filamentary coil optimization aims to produce precise magnetic configurations with minimal coil complexity, which is essential for practical stellarator reactor designs. The analysis reveals how the magnetic gradient scale length affects the required coil geometry and provides guidance for balancing physics performance against engineering constraints in compact stellarator designs like NCSX and ARIES-CS.
+
+### 3. Uncertainty quantification and sensitivity analysis of the energy and particle sources from hydrogen neutral beam injection in a JET-like fusion plasma
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae55b8)
+- Published date: 2026-05-07
+- Source / venue: Nuclear Fusion
+- Summary: This work presents comprehensive uncertainty quantification and sensitivity analysis for neutral beam injection (NBI) heating in JET-like tokamak plasmas. NBI is a primary heating and current drive system in fusion devices, but its effectiveness depends on beam-plasma interaction physics and plasma parameters. The study quantifies how uncertainties in beam geometry, ionization profiles, plasma density, and magnetic field affect energy deposition and fast ion distribution, establishing a framework for uncertainty-aware design of NBI systems in ITER and DEMO.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 6 items; exact-journal candidates 5; added 3; deduped 2; rejected 1 (Journal of Nuclear Engineering - filtered by container-title); error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_RATE_LIMIT; methods: arXiv API; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+
 # 2026-05-07 20:07:15 UTC+08:00
 
 ## Fusion literature update
