@@ -5,6 +5,53 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-08 23:21:13 UTC+08:00
+
+## Fusion literature update
+
+### 1. Variations in lithium vapor cave performance predictions due to radial transport and recycling assumptions
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae61ca)
+- Published date: 2026-05-08
+- Source / venue: Nuclear Fusion
+- Summary: This study investigates lithium vapor cave performance predictions in tokamak divertor configurations, focusing on how assumptions about radial transport and lithium recycling affect the divertor plasma conditions. Lithium vapor caves are a leading-edge approach for mitigating heat flux to divertor targets and improving plasma-material interface performance in high-power fusion devices. The analysis reveals significant variations in particle flux, heat load, and impurity screening predictions depending on the choice of transport models and recycling coefficients, highlighting critical uncertainties for ITER and DEMO divertor design and operation.
+
+### 2. Synthetic model of gamma-ray emission during DT experiments on the SPARC tokamak
+- URL: [arXiv](http://arxiv.org/abs/2605.04248)
+- Published date: 2026-05-07
+- Source / venue: arXiv physics.plasm-ph
+- Summary: This paper develops a synthetic diagnostic for gamma-ray emission modeling during deuterium-tritium (DT) experiments on the SPARC tokamak. Gamma-ray measurements provide critical information about fast ion physics, fusion power production, and plasma performance in compact high-field tokamaks. The model combines transport simulations with nuclear reaction cross-sections to predict gamma-ray emission profiles during SPARC DT operations, enabling validation of fast ion confinement models and characterization of alpha particle physics in burning plasma conditions.
+
+### 3. Yinsen: A low power density HTS tokamak fusion reactor for marine and off-grid applications
+- URL: [arXiv](http://arxiv.org/abs/2605.04190)
+- Published date: 2026-05-07
+- Source / venue: arXiv physics.plasm-ph
+- Summary: This conceptual design study presents Yinsen, a compact tokamak fusion reactor utilizing high-temperature superconductor (HTS) magnets for marine propulsion and off-grid power applications. The reactor design prioritizes low power density operation to achieve steady-state plasma conditions with reduced engineering constraints compared to conventional high-field tokamaks. The analysis covers plasma physics performance, magnet engineering, blanket design, and economic feasibility, demonstrating the potential for fusion power in specialized applications requiring compact, mobile energy sources.
+
+### 4. Breakeven Conditions for Beam-Target Fusion with Electron-Suppressed Targets
+- URL: [arXiv](http://arxiv.org/abs/2605.04104)
+- Published date: 2026-05-07
+- Source / venue: arXiv physics.plasm-ph
+- Summary: This theoretical work investigates the physical conditions required to achieve breakeven in beam-target fusion systems where electron interactions are suppressed to reduce losses. Beam-target fusion offers an alternative approach to magnetically confined fusion but typically suffers from low gain due to energy losses to electrons. By analyzing the interplay between beam energy, target density, confinement time, and electron screening effects, this study identifies parameter regimes where net energy gain could be achievable, with implications for compact fusion neutron sources and alternative fusion concepts.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 1 item; exact-journal candidates 1; added 1; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 4; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_RATE_LIMIT; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_PARSED; methods: arXiv recent listings; parsed 10 items; candidates 3; added 3; deduped 7 (already present or not fusion); rejected 0; error: none
+
 # 2026-05-08 09:38:00 UTC+08:00
 
 ## Fusion literature update
