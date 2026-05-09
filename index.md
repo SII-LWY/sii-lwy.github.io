@@ -5,6 +5,41 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-09 22:48:57 UTC+08:00
+
+## Fusion literature update
+
+### 1. Hierarchy of turbulent transport models with the SOLEDGE3X code
+- URL: [DOI](https://doi.org/10.1088/1741-4326/ae6ab4)
+- Published date: 2026-05-08
+- Source / venue: Nuclear Fusion
+- Summary: This paper presents a hierarchy of turbulent transport models implemented in the SOLEDGE3X code for tokamak edge plasma simulations. Edge turbulence is critical for heat and particle exhaust in fusion devices, as it determines scrape-off layer width, divertor heat loads, and plasma-material interactions. The study systematically compares various transport models - from reduced fluid models to advanced gyrokinetic simulations - demonstrating their relative strengths in capturing edge plasma phenomena relevant to ITER and DEMO. The analysis provides guidance for selecting appropriate computational models based on simulation objectives, from rapid edge plasma characterization to high-fidelity power exhaust predictions.
+
+### 2. Development and initial operational experience of high voltage DC power supply system for the nuclear fusion application
+- URL: [DOI](https://doi.org/10.1016/j.fusengdes.2026.115806)
+- Published date: 2026-05-08
+- Source / venue: Fusion Engineering and Design
+- Summary: This engineering study describes the development and initial operational performance of a high-voltage DC power supply system designed for nuclear fusion applications. High-power electrical systems are essential for heating, current drive, and magnet power supplies in tokamaks and stellarators. The power supply system features advanced fault protection, fast response capabilities, and modular architecture suitable for fusion reactor requirements. Operational data from integration with fusion experiments demonstrates reliable performance under demanding plasma conditions, contributing to the engineering database for ITER and future fusion power plant electrical systems.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 1 item; exact-journal candidates 1; added 1; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_RATE_LIMIT; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests (found via OpenAlex source filter instead)
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 4 items; candidates 0; added 0; deduped 0; rejected 4 (2 from non-fusion journals, 2 from Zenodo repo); error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_PARSED; methods: arXiv recent listings; parsed 6 items from May 8; candidates 0 (none fusion-related); added 0; deduped 6; rejected 0; error: none
+
 # 2026-05-08 23:24:58 UTC+08:00
 
 ## Fusion literature update
