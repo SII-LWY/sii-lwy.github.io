@@ -5,6 +5,38 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-11 07:31:29 UTC+08:00
+
+## Fusion literature update
+
+No new fusion journal articles were published or released in the time window 2026-05-10 22:26:49 to 2026-05-11 07:31:29 UTC+08:00. All core fusion journals (Nuclear Fusion, Plasma Physics and Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, Fusion Engineering and Design, Review of Scientific Instruments, Plasma Science and Technology, Nuclear Materials and Energy, Plasma Physics Reports, Contributions to Plasma Physics) were checked using exact-container-title filtering with Crossref API and source filtering with OpenAlex API. Optional high-impact journals (PRL, PRR, PRE, Nature Physics, Nature Energy, Nature Communications, Science Advances) were also queried with no new fusion-relevant publications identified in this window. arXiv physics.plasm-ph recent listings showed no new submissions; all recent papers visible were from earlier dates (May 8, 2026 or earlier). OpenAlex search results included repository entries (HAL, Zenodo) which were excluded per journal-first methodology. One HAL repository entry on laser ablation ICP-MS methodology was identified but excluded as it is not a peer-reviewed journal article.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 91 items; exact-journal candidates 0; added 0; deduped 0; rejected 91 (Review of Behavioral Finance, medical journals, etc. - not Review of Scientific Instruments); error: none
+- Plasma Science and Technology (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 1 item; candidates 0; added 0; deduped 0; rejected 1 (HAL repository - not journal article); error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref bibliographic query with exact-title post-filter; parsed 51 items; exact-journal candidates 0; added 0; deduped 0; rejected 51 (Cardiovascular Diabetology, Scientific Reports, etc. - not Plasma Physics Reports); error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref bibliographic query with exact-title post-filter; parsed 14 items; exact-journal candidates 0; added 0; deduped 0; rejected 14 (Astronomy & Astrophysics, Scientific Reports, etc. - not Contributions to Plasma Physics); error: none
+- Nuclear Fusion (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 1 item; candidates 0; added 0; deduped 0; rejected 1 (HAL repository - not Nuclear Fusion journal); error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 2 items; candidates 0; added 0; deduped 0; rejected 2 (Zenodo repository - not journal articles); error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physical Review Letters (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests on Crossref
+- Physical Review Research (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 3 items; candidates 0; added 0; deduped 0; rejected 3 (Lirias, HAL, Zenodo repositories - not Physical Review Research); error: none
+- Physical Review E (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 3 items; candidates 0; added 0; deduped 0; rejected 3 (HAL, Zenodo, Strathprints repositories - not Physical Review E); error: none
+- Nature Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 3 items; exact-journal candidates 0; added 0; deduped 0; rejected 3 (Journal of Apitherapy and Nature, Nature Communications, etc. - not Nature Physics); error: none
+- Nature Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nature Communications (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed 2 items; exact-journal candidates 2 (glycan assembly DOI 10.1038/s41467-026-73028-w, HIV prevention DOI 10.1038/s41467-026-72907-6); added 0; deduped 0; rejected 2 (not fusion-related); error: none
+- Science Advances (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 5 items; exact-journal candidates 0; added 0; deduped 0; rejected 5 (Advances in Engineering Research, Science Research and Development, etc. - not Science Advances); error: none
+- arXiv (physics.plasm-ph): OK_NO_NEW; methods: arXiv API query with date filter; parsed 0 new items on May 10-11; candidates 0; added 0; deduped 0; rejected 0; error: none
+
 # 2026-05-10 22:26:49 UTC+08:00
 
 ## Fusion literature update
