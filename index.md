@@ -5,6 +5,31 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-10 21:03:45 UTC+08:00
+
+## Fusion literature update
+
+No new fusion journal articles were published or released in the time window 2026-05-09 21:03:45 to 2026-05-10 21:03:45 UTC+08:00. All core fusion journals (Nuclear Fusion, Plasma Physics and Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, Fusion Engineering and Design, Review of Scientific Instruments, Plasma Science and Technology, Nuclear Materials and Energy, Plasma Physics Reports, Contributions to Plasma Physics) were checked using exact-container-title filtering with Crossref API and source filtering with OpenAlex API. Optional high-impact journals (PRL, PRR, PRE, Nature Physics, Nature Energy, Nature Communications, Science Advances) were also queried with no new fusion-relevant publications in this window. arXiv physics.plasm-ph recent listings showed no new submissions since May 8, 2026; all papers within the window were already present in the index from previous updates. OpenAlex search results (Figshare, Zenodo preprint servers) included non-journal repository entries which were excluded per journal-first methodology.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 3 items (nuclear medicine journals); exact-journal candidates 0; added 0; deduped 0; rejected 3 (wrong journals); error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 2 items; candidates 0; added 0; deduped 0; rejected 2 (Figshare/Zenodo preprint repositories - not journal articles); error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- arXiv (physics.plasm-ph): OK_NO_NEW; methods: arXiv recent listings; parsed 0 new items on May 9-10; candidates 0; added 0; deduped 0; rejected 0; error: none
+
 # 2026-05-09 22:50:29 UTC+08:00
 
 ## Fusion literature update
