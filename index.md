@@ -5,6 +5,38 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-11 09:27:04 UTC+08:00
+
+## Fusion literature update
+
+No new fusion journal articles were published or released in the time window 2026-05-11 07:31:29 to 2026-05-11 09:27:04 UTC+08:00. All core fusion journals (Nuclear Fusion, Plasma Physics and Controlled Fusion, Physics of Plasmas, Journal of Plasma Physics, Fusion Engineering and Design, Review of Scientific Instruments, Plasma Science and Technology, Nuclear Materials and Energy, Plasma Physics Reports, Contributions to Plasma Physics) were checked using exact-container-title filtering with Crossref API and source filtering with OpenAlex API. Optional high-impact journals (PRL, PRR, PRE, Nature Physics, Nature Energy, Nature Communications, Science Advances) were also queried with no new fusion-relevant publications identified in this window. arXiv physics.plasm-ph recent listings showed no new submissions on May 11, 2026; the latest visible papers are from May 8, 2026. OpenAlex search results included repository entries (HAL, Lirias) which were excluded per journal-first methodology.
+
+
+Source check summary:
+
+- Nuclear Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests on OpenAI API
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 11 items; exact-journal candidates 0; added 0; deduped 0; rejected 11 (Communications in Computational Physics, International Journal of Theoretical Physics - not Plasma Physics and Controlled Fusion); error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 11 items; exact-journal candidates 0; added 0; deduped 0; rejected 11 (Communications in Computational Physics - not Journal of Plasma Physics); error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests on OpenAI API
+- Review of Scientific Instruments (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 2 items; candidates 0; added 0; deduped 0; rejected 2 (Lirias, HAL repositories - not journal articles); error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physical Review Letters (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Physical Review Research (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 4 items; candidates 0; added 0; deduped 0; rejected 4 (Lirias, HAL repositories - not Physical Review Research); error: none
+- Physical Review E (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 2 items; candidates 0; added 0; deduped 0; rejected 2 (HAL repository - not Physical Review E); error: none
+- Nature Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Nature Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nature Communications (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 11 items; exact-journal candidates 0; added 0; deduped 0; rejected 11 (Communications in Computational Physics, Corporate Communications - not Nature Communications); error: none
+- Science Advances (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- arXiv (physics.plasm-ph): OK_NO_NEW; methods: arXiv recent listings; parsed 0 new items on May 11; candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests on API query
+
 # 2026-05-11 07:31:29 UTC+08:00
 
 ## Fusion literature update
