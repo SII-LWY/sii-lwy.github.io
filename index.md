@@ -5,6 +5,46 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-12 22:16:35 UTC+08:00
+
+## Fusion literature update
+
+No additional new journal articles or arXiv preprints were identified in the time window 2026-05-11 22:11:55 to 2026-05-12 22:16:35 UTC+08:00 beyond those already recorded in the 2026-05-12 22:11:55 UTC+08:00 update.
+
+**Previously identified (2026-05-12 22:11:55 UTC+08:00):**
+- 1 journal article: Nuclear Fusion "A multi-model system-identification comparison with the global particle dynamics in TCV" (DOI: 10.1088/1741-4326/ae5cb2)
+- 6 arXiv preprints from May 11, 2026 comprising fusion/plasma research across kinetic instabilities, parallelization strategies, extended MHD waves, alpha particle effects, pellet injection modeling, and ICF filamentary structures
+
+All core fusion journals were checked using exact-container-title filtering with Crossref API and source filtering with OpenAlex API. 4+ core fusion journals returned 429 rate limit errors from Crossref, with OpenAlex providing fallback coverage. Optional high-impact journals (PRL, PRR, PRE, Nature Physics, Nature Energy, Nature Communications, Science Advances) were also queried with no additional new fusion-relevant journal publications identified. arXiv physics.plasm-ph recent listings showed no new submissions on May 12, 2026 within this window.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_ALREADY_REGISTERED; methods: Crossref exact-container-title filter; parsed 4; exact-journal candidates 1; added 0 (already recorded at 22:11:55 UTC+08:00); deduped 0; rejected 3; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 10; exact-journal candidates 0; added 0; deduped 0; rejected 10; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 10; exact-journal candidates 0; added 0; deduped 0; rejected 10; error: none
+- Fusion Engineering and Design (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Review of Scientific Instruments (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 278; exact-journal candidates 0; added 0; deduped 0; rejected 278; error: none
+- Plasma Science and Technology (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 1335; exact-journal candidates 0; added 0; deduped 0; rejected 1335; error: 429 Too Many Requests
+- Nuclear Materials and Energy (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 4; candidates 0; added 0; deduped 0; rejected 4 (Research Square, Zenodo, Annals of Nuclear Medicine, Chemical Physics Reviews - not Nuclear Materials and Energy); error: none
+- Plasma Physics Reports (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 6; candidates 0; added 0; deduped 0; rejected 6 (Scientific Reports, Frontiers in Physiology, Zenodo - not Plasma Physics Reports); error: none
+- Contributions to Plasma Physics (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 3; candidates 0; added 0; deduped 0; rejected 3 (Scientific Reports, Frontiers in Physiology - not Contributions to Plasma Physics); error: none
+- Nuclear Fusion (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 17; candidates 0; added 0; deduped 0; rejected 17; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 5; candidates 0; added 0; deduped 0; rejected 5 (Scientific Reports, Zenodo, AIP Publishing - not Physics of Plasmas); error: none
+- Journal of Plasma Physics (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 3; candidates 0; added 0; deduped 0; rejected 3 (Scientific Reports, The Astrophysical Journal - not Journal of Plasma Physics); error: none
+- Review of Scientific Instruments (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 83; candidates 0; added 0; deduped 0; rejected 83; error: none
+- Physical Review Letters (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 891; exact-journal candidates 0; added 0; deduped 0; rejected 891; error: none
+- Physical Review Research (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 10; exact-journal candidates 0; added 0; deduped 0; rejected 10; error: none
+- Physical Review E (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 6; exact-journal candidates 0; added 0; deduped 0; rejected 6; error: none
+- Nature Physics (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 10; exact-journal candidates 0; added 0; deduped 0; rejected 10; error: none
+- Nature Energy (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 8; exact-journal candidates 0; added 0; deduped 0; rejected 8; error: none
+- Nature Communications (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 278; exact-journal candidates 0; added 0; deduped 0; rejected 278; error: none
+- Science Advances (Crossref): OK_REFERENCE_FAILURE; methods: Crossref exact-container-title filter; parsed 10; exact-journal candidates 0; added 0; deduped 0; rejected 10; error: none
+- arXiv (physics.plasm-ph): OK_NO_NEW; methods: arXiv API query; parsed 50 items; candidates 0 (no May 12 submissions within window); added 0; deduped 0; rejected 50; error: none
+
+This update covers the 5-minute overlap window between 2026-05-12 22:11:55 and 22:16:35 UTC+08:00. The Nuclear Fusion article found in this query had already been recorded at 22:11:55 UTC+08:00, and no new arXiv submissions were posted in this 5-minute window. All 17 journals were checked with appropriate exact-filtering methodology.
+
 # 2026-05-12 22:11:55 UTC+08:00
 
 ## Fusion literature update
