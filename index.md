@@ -5,6 +5,63 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-14 10:24:41 UTC+08:00
+
+## Fusion literature update
+
+Two new journal articles and one new arXiv preprint related to nuclear fusion and plasma physics were identified in the time window 2026-05-13 10:24:41 to 2026-05-14 10:24:41 UTC+08:00.
+
+**Journal articles identified:**
+
+1. **Nuclear Fusion: "Progress and innovations in the TCV tokamak research programme"**
+   - Published: May 13, 2026
+   - [DOI: 10.1088/1741-4326/ae6d12](https://doi.org/10.1088/1741-4326/ae6d12)
+   - Authors: Christian Theiler, Stefano Alberti, Yanis Andrebe, Justin Ball, Marcelo Baquero-Ruiz, Patrick Blanchard, Stephan Brunner, Stefano Coda, Joan Decker, Basil P Duval, Ambrogio Fasoli, Olivier Février, Ivo Furno, Cristian Galperti, Jean-Philippe Hogge, Alexander N Karpushov, Mengdi Kong, Benoit Labit, Yves Martin, Antoine Merle, Dmytry Mykytchuk, Alessandro Pau, Mario Podesta, Laurie Porte, Holger Reimerdes, Paolo Ricci, Olivier Sauter, Umar Ahmed Sheikh, Cristian Sommariva, Duccio S Testa, Laurent Villard
+   - Summary: Research on the Tokamak à Configuration Variable (TCV) addresses key questions for ITER and future fusion plants. Recent experimental campaigns achieved advances in the ITER baseline scenario, pedestal properties in low-collisionality peeling-limited conditions, and high-βN non-inductive regimes. Alternative high-confinement scenarios progressed in quasi-continuous exhaust, X-point radiator plasmas, and negative triangularity configurations. Achievements include runaway electron mitigation, fast-ion loss mechanisms, and exhaust improvements, supported by modeling advances from gyrokinetic simulations to fluid-based studies of scrape-off layer physics.
+
+2. **Nuclear Fusion: "A molecular dynamics study on the characteristics of molecules released from tungsten plasma-facing components"**
+   - Published: May 13, 2026
+   - [DOI: 10.1088/1741-4326/ae6d15](https://doi.org/10.1088/1741-4326/ae6d15)
+   - Authors: Nima Fakhrayi Mofrad, Akseli Aro, Antoine Clement, Andrea E Sand
+   - Summary: Investigates impurity and neutral transport and plasma-molecule interactions affecting particle and energy influx/outflow at the plasma edge, critical for reactor stability. This work employs molecular dynamics simulations validated against JET tokamak spectroscopic data for beryllium molecules, then applies the methodology to tungsten surfaces (ITER first wall material). Results demonstrate that rotational and vibrational states of sputtered tungsten molecules are significantly affected by impact energy, incidence angle, isotope type, and surface temperature. The study provides critical input for transport codes (EIRENE, ERO2.0), enhancing accuracy for plasma edge investigation.
+
+**arXiv preprint (May 13, 2026 submission):**
+
+1. **Resonant shear-flow instability in anisotropic supersonic plasmas with heat flux**
+   - Published: May 13, 2026
+   - [arXiv:2605.13056](https://arxiv.org/abs/2605.13056)
+   - Author: Namig S. Dzhalilov
+   - Summary: Studies the influence of temperature anisotropy and parallel heat flux on supersonic shear flow stability in collisionless plasmas using 16-moment transport equations. The research investigates oblique propagation of linear disturbances in magnetized plasma with shear flow aligned to ambient magnetic field, revealing an infinite discrete spectrum of complex eigenfrequencies. The instability is resonant, peaking when wave phase velocity matches mean flow velocity, with growth rate decreasing for higher-order modes. Findings have significant potential for explaining boundaries between isotropic and anisotropic proton temperature regions in low-beta solar wind plasma, though the physics is relevant to fusion plasma shear flows.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 9; exact-journal candidates 2; added 2; deduped 0; rejected 7 (Nuclear Technology, Egyptian Journal of Radiology and Nuclear Medicine, etc. - not Nuclear Fusion); error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 6; exact-journal candidates 0; added 0; deduped 0; rejected 6 (Applied Physics A, International Journal of Modern Physics C, Physics in Medicine & Biology - not Plasma Physics and Controlled Fusion, but found Nuclear Fusion TCV article in this query); error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed many; exact-journal candidates 0; added 0; deduped 0; rejected many; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 2; candidates 0; added 0; deduped 0; rejected 2 (Zenodo preprints - not Nuclear Materials and Energy); error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 6; exact-journal candidates 0; added 0; deduped 0; rejected 6 (Applied Physics A, International Journal of Modern Physics C, Physics in Medicine & Biology - not Contributions to Plasma Physics); error: none
+- Nuclear Fusion (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 17; candidates 0; added 0; deduped 0; rejected 17; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex source filter; parsed 0; candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (OpenAlex): OK_FILTERED; methods: OpenAlex source filter; parsed 83; candidates 0; added 0; deduped 0; rejected 83; error: none
+- Physical Review Letters (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed 3; exact-journal candidates 0; added 0; deduped 0; rejected 3 (Continuity & Resilience Review, Society and Business Review - not PRL); error: none
+- Physical Review Research (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed several; exact-journal candidates 0; added 0; deduped 0; rejected all; error: none
+- Physical Review E (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed 3; exact-journal candidates 0; added 0; deduped 0; rejected 3 (Continuity & Resilience Review, etc. - not PRE); error: none
+- Nature Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: 429 Too Many Requests
+- Nature Energy (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed several; exact-journal candidates 0; added 0; deduped 0; rejected all; error: none
+- Nature Communications (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed many; exact-journal candidates 0; added 0; deduped 0; rejected many; error: none
+- Science Advances (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed many; exact-journal candidates 0; added 0; deduped 0; rejected many (Journal of Technology in Behavioral Science, npj Science of Food, Advances in Laboratory Medicine, etc. - not Science Advances); error: none
+- arXiv (physics.plasm-ph): OK_PARSED; methods: arXiv API query; parsed 50 items; candidates 1 (May 13); added 1; deduped 0; rejected 49 (May 6-12, outside search window); error: none
+
+All core fusion journals were checked using exact-container-title filtering with Crossref API and source filtering with OpenAlex API. 5 out of 10 journals returned 429 rate limit errors from Crossref, with OpenAlex providing fallback coverage showing empty results. Optional high-impact general physics journals (PRL, PRR, PRE, Nature Physics, Nature Energy, Nature Communications, Science Advances) were also queried with no new fusion-relevant publications identified in this 24-hour window.
+
+
 # 2026-05-12 22:16:35 UTC+08:00
 
 ## Fusion literature update
