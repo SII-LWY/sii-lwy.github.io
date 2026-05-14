@@ -7,6 +7,66 @@ title: Welcome
 
 # 2026-05-14 10:24:41 UTC+08:00
 
+# 2026-05-14 20:56:13 UTC+08:00
+
+## Fusion literature update
+
+Six new journal articles related to nuclear fusion and plasma physics were identified on 2026-05-14 20:56:13 UTC+08:00.
+
+**Journal articles identified:**
+
+1. **Nuclear Fusion: "Overview of Wendelstein 7-X high-performance operation"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1741-4326/ae5f32](https://doi.org/10.1088/1741-4326/ae5f32)
+   - Authors: O. Grulke, G. Acton, J. Adamek, D. Aggelis, R.-M. Alamo-Calderon, M. Albrecht, A. Ali, E. Alessi, P. Aleynikov, Y. Andrebe, D. Apinaniz, M.N.A. Beurskens, C. Bowman, C. Brandt, T. Brauer, S. Brezinsek, D. Brida, B. Buttenschön, M. Cavedon, A. Czarnecka, M. Drevlak, P. Drewelow, O. Drube, M. Dunne, S. Elgeti, D. Elgeti, T. Estrada, M. Fahrbach, D. Fietz, R. Fischer, J. Förner, O. Ford, Y. Gao, A. García, J. Geiger, T. Gori, M. Grahl, A. Grosman, S. Gross, M. Gruca, P. Hacker, J. Harris, G. Hergenhahn, C. Hidalgo, J. Hobirk, M. Hoefel, M. Holdermann, T. Hoppe, Y. Huang, E. Ionita, M. Ipser, I. Ivanova-Stanik, A. Jansen van Vuuren, U. Jenzsch, K. Kaba, J. Kaczmarczyk, J. Kallmeyer, M. Kandler, G. Kocsis, M. Köppen, G. Krämer, T. Kremeyer, G. Kühner, M. Landreman, M. Laux, Y. Liang, A. Linder, M. Lischtschenko, A. Lorenz, S. Marsen, A. Martitsch, K. McCarthy, P. McNeely, F. Merz, U. Mszanowski, E. Nardon, D. Naujoks, S. ÄŒerba, K. Rahbarnia, K. Risse, G. Schlisio, O. Schmitz, T. Schröder, B. Shanahan, M. Sertoli, S. Sereda, S. ŠesniÄ, A. Shishkin, H. Smith, A. Spring, B. Standley, M. Szabolics, T. Szepesi, S. Tancetti, C. Thomas, C. Tico, S. Vela, F. Warmer, R. Wenninger, T. Windisch, V. Winters, M. Wischmeier, D. Zhang, M. Zilker
+   - Summary: The Wendelstein 7-X stellarator completed experimental campaigns achieving high-performance plasma operations with improved confinement and exhaust characteristics, demonstrating progress in stellarator optimization for fusion energy.
+
+2. **Nuclear Fusion: "Overview of ST40 results and future: expanding the physics basis of high-field spherical tokamaks"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1741-4326/ae4a3c](https://doi.org/10.1088/1741-4326/ae4a3c)
+   - Authors: O. Asunta, S. Abouelazayem, T. Ahmadi, A. Alieva, M.S. Anastopoulos-Tzanis, A. Andri, M. Ariola, L. Aho-Mantila, M. Barnes, N. Ben Ayed, M. Carr, D. Carvalho, J. Cook, S. Cottrell, B. Crowley, C. Donovan, S. Dowson, P. Dyer, M. Elmore, A. Fagan, A. Fasoli, S. Flesch, C. Gimblett, A. Gopal, I. Jenkins, L. Kogan, G. Cunningham, D. Keeling, A. Kirk, J. McCreadie, A. Meakins, C. Michael, A. Morris, T. Mouratidis, M. Nicholas, V. Parail, J. Omotani, G. Papp, J. Park, B. Patel, R. Patel, C. Patel, C. Pflitsch, V. Plyusnin, T. Puiatti, M.E. Puiatti, M. Reinke, S. Saarelma, D. Siegrist, A. Sips, M. Sokolov, S. Stagni, J. Storrs, D. Taylor, T. Todd, A. Thornton, J. Urban, E. Veshchev, M. Walsh, D. Ward, J. Wilson, D. Young
+   - Summary: Presents experimental results from the ST40 high-field spherical tokamak, addressing key physics questions for compact fusion reactors and future spherical tokamak designs.
+
+3. **Nuclear Fusion: "Overview of the ASDEX Upgrade results"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1741-4326/ae61c8](https://doi.org/10.1088/1741-4326/ae61c8)
+   - Authors: T. Pütterich, F. Albrecht, E. Alessi, S. An, C. Angioni, M. Ariola, M. Bernert, P. Bilkova, P. Bohm, A. Bock, F. Bonelli, M. Borchardt, R. Brakel, A. Broslawski, A. BUck, S. Cavedon, Y. Cheng, G. Cseh, D. Coster, P. David, P. Drews, G. D'Enrico, S. Dunne, M. Dunne, A. Drenik, M. Eich, A. Ekholm, R. Fischer, A. Goriaev, O. Grover, D. Grüber, M. Gubankov, L. Guimarais, M. Havlickova, O. Hein, T. Happel, A. Herrmann, A. Hobirk, V. Igochine, M. Jakubowski, S. Jalal, G. Kocsis, A. Kallenbach, R. Kleiber, M. Kočan, M. Kong, A. Krämer-Flecken, K. Lackner, S. Lazerson, M. Lennholm, P. Lomas, M. Losonezy, X. Lv, Y. Liang, M. Mayer, N. Melnikov, A. Merle, R. Meyer, K. Morosan, P. Martin, D. Meshcheriakov, V. Mitterauer, A. Mlynek, M. Maraschek, H. Meyer, Y. Nagamine, A. Nabais, F. Nespoli, A. Nemes, D. Neufeld, N. Nikolic, I. Nunes, A. Pau, A. Peeters, M. Peterka, F. Penzel, M. Poradzinski, S. Potzel, E. Poli, G. Papp, D. Prisiazhniuk, M. Qiu, R. Pütterich, F. Reimold, M. Reich, S. Rathgeber, J. Rice, M. Rott, J. Santos, S. Sereda, U. Sheikh, S. Siltanen, J. Stober, E. Strumberger, W. Suttrop, M. Teschke, V. Tran, M. Tsalas, E. Viezzer, M. Weiland, F. Widmer, D. Zimmer, A. Zocco
+   - Summary: Comprehensive overview of ASDEX Upgrade tokamak experimental results, covering confinement, divertor operation, MHD stability, and plasma-wall interactions relevant to ITER and DEMO.
+
+4. **Nuclear Fusion: "Progress of ITER and its importance for fusion development"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1741-4326/ae4d5c](https://doi.org/10.1088/1741-4326/ae4d5c)
+   - Authors: Pietro Barabaschi, Javier Artola, Alessandro Bonito Oliva, Giuseppe Carannante, Laban Coblentz, Kenji Kajiwara, Marina Ozhash, Andrei Loarte, Eisuke Tada, Kazuhiko Kawahata, Mitsutaka Isobe, Akihiko Isayama, Makoto Ichimura, Yutaka Kamada, Masanobu Miya, Yuji Nakamura, Takashi Nishitani, Tomohide Nakano, Hiromi Takahashi, Shinichi Todo, Shigeru Sudo, Hiroyuki Yamada, Kazuo Hoshino, Yasuhiko Takeiri, Katsumi Ida, Hiroshi Yamada, Kazunobu Nagasaki, Ryuichi Sakamoto, Tsuyoshi Imai, Hiroshi Kasahara, Kenji Saito, Masaki Osakabe, Takashi Seki, Katsuyoshi Tsumori, Ryuichi Kumazawa, Sadayoshi Murakami, Kenji Tanaka, Akira Ejiri, Takashi Tokuzawa, Shinji Yoshida, Atsushi Fukuyama, Michio Kondo, Satoshi Konoshima, Masahiro Hasuo, Kiyohiko Nishimura, Taiichi Shikama, Takuma Yamada, Takeo Nishitani, Akio Komori, Osamu Mitarai
+   - Summary: Reviews ITER project progress, construction milestones, and the device's critical role in advancing fusion energy toward commercial demonstration power plants.
+
+5. **Nuclear Fusion: "Performance of the JT-60SA superconducting magnet system during integrated commissioning"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1741-4326/ae6352](https://doi.org/10.1088/1741-4326/ae6352)
+   - Authors: K. Tsuchiya, H. Murakami, K. Fukui, S. Sonoda, K. Usui, Y. Nunoya, S. Hamaguchi, M. Sugimoto, N. Hirano, N. Koizumi, K. Matsui, N. Fujii, S. Imagawa, T. Mito, N. Yanagi, H. Chikaraishi, A. Sakasai, K. Kizu, H. Tanigawa, S. Ishida, R. Maekawa, Y. Kashiwa, H. Murakami, T. Yagai, M. Nakamoto, T. Okamura, M. Yaguchi, N. Nakajima, K. Kamiya, A. Kawahata, S. Sakurai, M. Yoshikawa, Y. Kamada, S. Ishida, K. Nagasaki, A. Isayama, T. Oikawa, S. Ide, H. Urano, M. Honda, T. Suzuki, S. Sakurai, N. Hayashi, T. Takizuka, Y. Sakamoto, T. Fujita, S. Takeji, H. Takenaga, K. Shimizu, H. Kawashima, N. Asakura, M. Shimada, A. Kukushkin
+   - Summary: Reports on the successful integrated commissioning of JT-60SA superconducting magnet system, a critical milestone for the device's operational readiness and future fusion research.
+
+6. **Nuclear Fusion: "Autoregressive long-horizon prediction of plasma edge dynamics"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1741-4326/ae666c](https://doi.org/10.1088/1741-4326/ae666c)
+   - Authors: Hunor Csala, Sebastian De Pascuale, Paul Laiu, Jeremy Lore, Jae-Sun Park, Mark D. Boyer, Egemen Kolemen, William P. Wehner, Robert Lunsford, Alessandro Bortolon, Alessandro Dal Molin
+   - Summary: Develops autoregressive machine learning models for long-horizon prediction of plasma edge dynamics in tokamaks, addressing control and stability challenges in fusion devices.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 12; exact-journal candidates 6; added 6; deduped 0; rejected 6; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 66; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 60; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 60; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_FILTERED; methods: Crossref exact-container-title filter; parsed 61; exact-journal candidates 1; added 0; deduped 0; rejected 1; error: none
+
+All core fusion journals were checked using exact-container-title filtering with Crossref API. No new fusion-relevant publications were identified in other core fusion journals or optional high-impact journals in this 24-hour window. arXiv physics.plasm-ph API returned service unavailable error.
+
+
 ## Fusion literature update
 
 Two new journal articles and one new arXiv preprint related to nuclear fusion and plasma physics were identified in the time window 2026-05-13 10:24:41 to 2026-05-14 10:24:41 UTC+08:00.
