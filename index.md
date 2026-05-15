@@ -8,6 +8,32 @@ title: Welcome
 # 2026-05-14 10:24:41 UTC+08:00
 
 
+# 2026-05-15 08:28:32 UTC+08:00
+
+## Fusion literature update
+
+No additional new journal articles were identified beyond those already recorded in the 2026-05-15 00:30:12 UTC+08:00 update.
+
+**Previously identified (2026-05-15 00:30:12 UTC+08:00):**
+- 2 journal articles: Plasma Physics and Controlled Fusion - "State-selective electron capture by Ar<sup>16+</sup> ions" (DOI: 10.1088/1361-6587/ae6dfb) and "Interpretability guided transfer learning for tritium pedestal prediction" (DOI: 10.1088/1361-6587/ae6dfa)
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_ALREADY_REGISTERED; methods: Crossref exact-container-title filter; parsed 24; exact-journal candidates 6; added 0; deduped 6; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_ALREADY_REGISTERED; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 2; added 0; deduped 2; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All core fusion journals were checked using exact-container-title filtering with Crossref API. The 6 Nuclear Fusion and 2 Plasma Physics and Controlled Fusion articles found in this window had already been recorded in previous updates (last update at 2026-05-15 00:30:12 UTC+08:00).
+
+
+
 # 2026-05-15 00:30:12 UTC+08:00
 
 ## Fusion literature update
