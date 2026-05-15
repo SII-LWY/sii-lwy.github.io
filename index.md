@@ -7,6 +7,43 @@ title: Welcome
 
 # 2026-05-14 10:24:41 UTC+08:00
 
+
+# 2026-05-15 00:30:12 UTC+08:00
+
+## Fusion literature update
+
+Two new journal articles related to nuclear fusion and plasma physics were identified on 2026-05-15 00:30:12 UTC+08:00.
+
+**Journal articles identified:**
+
+1. **Plasma Physics and Controlled Fusion: "State-selective electron capture by Ar<sup>16+</sup> ions from laser-cooled potassium atoms"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1361-6587/ae6dfb](https://doi.org/10.1088/1361-6587/ae6dfb)
+   - Authors: Emiliano Acebal, Nicolás Bachi, Sebastian Otranto, Nelson Daniel Cariatore
+   - Summary: Investigates state-selective electron capture processes in Ar<sup>16+</sup> ions interacting with laser-cooled potassium atoms, providing quantitative cross-section measurements relevant to charge exchange spectroscopy diagnostics in fusion plasmas and neutral beam heating systems.
+
+2. **Plasma Physics and Controlled Fusion: "Interpretability guided transfer learning approaches for tritium pedestal prediction in tokamaks"**
+   - Published: May 14, 2026
+   - [DOI: 10.1088/1361-6587/ae6dfa](https://doi.org/10.1088/1361-6587/ae6dfa)
+   - Authors: Andreas Gillgren, Dimitriy Yadykin, Pär Strand
+   - Summary: Develops interpretable machine learning models for predicting tritium pedestal structure in tokamak plasmas, leveraging transfer learning to adapt models across different devices and advancing the understanding of fuel cycle dynamics in burning plasma scenarios.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 12; exact-journal candidates 6; added 0; deduped 6; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 66; exact-journal candidates 2; added 2; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 60; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 60; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 61; exact-journal candidates 1; added 0; deduped 0; rejected 1; error: none
+
+All core fusion journals were checked using exact-container-title filtering with Crossref API. No additional fusion-relevant publications were identified in other core journals or high-impact journals in this time window. arXiv physics.plasm-ph recent listings were not checked (focus on journal-first methodology).
+
+
 # 2026-05-14 20:56:13 UTC+08:00
 
 ## Fusion literature update
