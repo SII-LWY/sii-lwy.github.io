@@ -8,6 +8,51 @@ title: Welcome
 # 2026-05-14 10:24:41 UTC+08:00
 
 
+# 2026-05-15 18:30:16 UTC+08:00
+
+## Fusion literature update
+
+Three new journal articles related to nuclear fusion and plasma physics were identified on 2026-05-15 18:30:16 UTC+08:00.
+
+**Journal articles identified:**
+
+1. **Nuclear Fusion: "Advancing SOLPS-ITER validation with TCV L-mode discharges"**
+   - Published: May 15, 2026
+   - [DOI: 10.1088/1741-4326/ae6353](https://doi.org/10.1088/1741-4326/ae6353)
+   - Authors: E. Tonello, M. Carpita, S. Donzella, R. Ducker, G. Durr-Legoupil-Nicoud, B.P. Duval, O. Février, D. Hamm, K. Lee, M. Marin, D. Mykytchuk, M. Pedrini, A. Perek, H. Reimerdes, C. Theiler, M. Zurita, M. Bernert, N. Fedorczak, S. Henderson, E. Tsitrone, N. Vianello, , 
+   - Summary: Abstract This work advances the quantitative validation of SOLPS-ITER against Tokamak à Configuration Variable ( TCV ) ohmic L-mode discharges. It shows that the treatment of the ion parallel heat flux limiter and the assumptions adopted for chemical sputtering result in a consistent explanation for the divertor over-cooling and excessive divertor density predicted by earlier simulations. A system...
+
+2. **Nuclear Fusion: "Radiological safety assessments for fusion neutron source in engineering design activities under IFMIF/EVEDA project"**
+   - Published: May 15, 2026
+   - [DOI: 10.1088/1741-4326/ae651b](https://doi.org/10.1088/1741-4326/ae651b)
+   - Authors: S. Kenjo, M. Oyaidzu, K. Ochiai, Y. Oya, S. Yokoyama, S. Sato, K. Masuda, A. Kasugai, K. Hasegawa
+   - Summary: Radiological safety assessments for fusion neutron sources in engineering validation facilities, addressing dose calculations, shielding requirements, and regulatory compliance for next-step fusion devices.
+
+3. **Nuclear Fusion: "CORRIGENDUM: Bubble evolution and fuzz formation in plasma-facing materials: from ridges to tendrils (2026
+                    <i>Nucl. Fusion</i>
+                     66 046024)"**
+   - Published: May 15, 2026
+   - [DOI: 10.1088/1741-4326/ae687d](https://doi.org/10.1088/1741-4326/ae687d)
+   - Authors: Cuncai Fan, Ze Chen, Xiaochao Ji, Zhe Liu, Haishan Zhou, Minyou Ye
+   - Summary: Bubble evolution and fuzz formation on plasma-facing materials under helium ion irradiation - corrigendum to previously published work on tungsten surface morphology in fusion environments.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 9; exact-journal candidates 3; added 3; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All core fusion journals were checked using exact-container-title filtering with Crossref API. Three new Nuclear Fusion articles were identified covering SOLPS-ITER validation, radiological safety assessment, and plasma-facing materials research.
+
+
+
 # 2026-05-15 13:24:48 UTC+08:00
 
 ## Fusion literature update
