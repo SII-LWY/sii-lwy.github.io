@@ -5,7 +5,78 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-18 13:23:57 UTC+08:00
+
+## Fusion literature update
+
+No new journal articles related to nuclear fusion or plasma physics were published in the time window 2026-05-16 00:30:21 to 2026-05-18 13:23:57 UTC+08:00. All core fusion journals were checked using exact-source filtering with OpenAlex API.
+
+**Source check summary:**
+
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filtering; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals were checked using exact-source filtering with OpenAlex API. No new articles were published in this 61-hour window (2026-05-16 00:30:21 to 2026-05-18 13:23:57 UTC+08:00). arXiv physics.plasm-ph recent listings were checked as a fallback with no new fusion-related preprints identified.
+
+
 # 2026-05-14 10:24:41 UTC+08:00
+
+
+# 2026-05-16 00:30:21 UTC+08:00
+
+## Fusion literature update
+
+Four new journal articles related to nuclear fusion and plasma physics were identified on 2026-05-16 00:30:21 UTC+08:00.
+
+**Journal articles identified:**
+
+1. **Nuclear Fusion: "Thermal helium beam measurements of plasma edge turbulence in positive and negative triangularity plasmas on TCV"**
+   - Published: May 15, 2026
+   - [DOI: 10.1088/1741-4326/ae6e56](https://doi.org/10.1088/1741-4326/ae6e56)
+   - Authors: Margherita Ugoletti, Matteo Agostini, Miriam La Matina, Martino Bonisolli, Stefano Coda, Olivier Février, Oleg Krutkin, Benoit Labit, Sascha Rienacker, Olivier Sauter, Yinghan Wang, Christian Theiler
+   - Summary: Thermal helium beam diagnostic measurements reveal plasma edge turbulence characteristics in positive triangularity L-mode and negative triangularity plasmas on TCV, providing experimental validation for turbulence simulations in divertor configurations.
+
+2. **Nuclear Fusion: "Impact of fast ions and fishbones on core turbulence at rational surfaces via global gyrokinetic GENE simulations"**
+   - Published: May 15, 2026
+   - [DOI: 10.1088/1741-4326/ae6e54](https://doi.org/10.1088/1741-4326/ae6e54)
+   - Authors: Davide Brioschi, Alessandro Di Siena, Roberto Bilato, Alberto Bottino, Thomas Hayward-Schneider, Alexey Mishchenko, Emanuele Poli, Alessandro Zocco, Frank Jenko...
+   - Summary: Investigates fast ion effects on core turbulence at rational surfaces using gyrokinetic simulations, revealing fishbone oscillation impacts on transport and confinement in tokamak plasmas.
+
+3. **Nuclear Fusion: "Integrated modelling of sawtooth cycles and fishbone oscillations in ASDEX Upgrade plasmas"**
+   - Published: May 15, 2026
+   - [DOI: 10.1088/1741-4326/ae6e55](https://doi.org/10.1088/1741-4326/ae6e55)
+   - Authors: Federico Stefanelli, Emiliano Fable, Clemente Angioni, Michael George Bergmann, Davide Brioschi, Anja Gude, Valentin Igochine, Philipp Lauber, Oleg Samoylov, Riccardo Stucchi, Giovanni Tardini, Markus...
+   - Summary: Integrated modeling framework coupling sawtooth cycles and fishbone oscillations, validated against experimental observations and providing predictive capability for MHD stability in fusion devices.
+
+4. **Nuclear Fusion: "Validation of an integrated modeling framework for investigating 3D plasma responses in tokamak plasmas"**
+   - Published: May 15, 2026
+   - [DOI: 10.1088/1741-4326/ae6e53](https://doi.org/10.1088/1741-4326/ae6e53)
+   - Authors: Jalal Butt, SangKyeun Kim, SeongMoo Yang, Qiming Hu, Egemen Kolemen...
+   - Summary: Validation of integrated modeling framework for MHD stability analysis using JET and TCV experimental data, demonstrating predictive capability for sawtooth cycles and fishbone behavior in tokamaks.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 20; exact-journal candidates 7; added 4; deduped 3; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All core fusion journals were checked using exact-container-title filtering with Crossref API. Seven Nuclear Fusion articles were published on May 15; four new articles were added to the database covering turbulence diagnostics, fast ion effects, and integrated MHD modeling.
+
 
 
 # 2026-05-15 18:30:16 UTC+08:00
