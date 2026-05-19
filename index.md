@@ -5,11 +5,11 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-05-19 11:50:46 UTC+08:00
+# 2026-05-19 11:59:43 UTC+08:00
 
 ## Fusion literature update
 
-No new journal articles related to nuclear fusion or plasma physics were published on 2026-05-19. All core fusion journals were checked using exact-source filtering via OpenAlex API.
+Follow-up check on 2026-05-19 confirmed no new journal articles across all core fusion journals.
 
 **Source check summary:**
 
@@ -24,7 +24,10 @@ No new journal articles related to nuclear fusion or plasma physics were publish
 - Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
 - Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
 
-All 10 core fusion journals were checked using exact-source filtering with OpenAlex API. No articles were published on 2026-05-19 during the search window (2026-05-18 19:02:41 to 2026-05-19 11:50:46 UTC+08:00).
+All 10 core fusion journals reconfirmed via exact-source filtering with OpenAlex API. Search window: 2026-05-19 11:50:46 to 2026-05-19 11:59:43 UTC+08:00.
+
+
+# 2026-05-19 11:50:46 UTC+08:00
 
 
 # 2026-05-18 19:02:41 UTC+08:00
