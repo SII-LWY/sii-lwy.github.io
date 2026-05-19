@@ -5,6 +5,35 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-19 21:10:56 UTC+08:00
+
+## Fusion literature update
+
+One new journal article related to nuclear fusion was identified on 2026-05-19 21:10:56 UTC+08:00.
+
+**Journal article identified:**
+
+1. **Nuclear Fusion: "Investigation of inflow during sawtooth crashes using two-color soft x-ray system in JT-60SA integrated commissioning phase"**
+   - Published: May 19, 2026 (online); June 1, 2026 (print)
+   - [DOI: 10.1088/1741-4326/ae69f8](https://doi.org/10.1088/1741-4326/ae69f8)
+   - Authors: R. Sano, H. Homma, M. Takechi, T. Nakano
+   - Summary: Analyzed opposite-phase oscillations between high-energy and low-energy bremsstrahlung emissions in soft x-ray signals during JT-60SA sawtooth crashes. Electron temperature decreased while electron density and/or effective charge increased during crashes, suggesting possible inflow of electrons and/or impurities across the inversion radius driven by inward pinch.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 19; exact-journal candidates 1; added 1; deduped 0; rejected 18; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 41; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 5; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 7; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 5; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals were checked using exact-source filtering with Crossref API and OpenAlex API. One Nuclear Fusion article published on May 19, 2026 was identified covering JT-60SA sawtooth crash diagnostics and electron temperature analysis in the integrated commissioning phase.
+
 # 2026-05-19 12:30:07 UTC+08:00
 
 ## Fusion literature update
