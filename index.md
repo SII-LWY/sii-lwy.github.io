@@ -5,6 +5,35 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-21 02:46:44 UTC+08:00
+
+## Fusion literature update
+
+One new journal article related to nuclear fusion was identified on 2026-05-21 02:46:44 UTC+08:00.
+
+**Journal article identified:**
+
+1. **Nuclear Fusion: "The role of kinetic effects on the tungsten impurity transport in the boundary plasma of EAST"**
+   - Published: May 20, 2026
+   - [DOI: 10.1088/1741-4326/ae6ab6](https://doi.org/10.1088/1741-4326/ae6ab6)
+   - Authors: Hui Wang, Guoliang Xu, Rui Ding, Hang Si, Guozhang Jia, Jin Guo, Jinheng Zhao, Hai Xie, I.Y. Senichenkov, E.G. Kaveeva, V.A. Rozhansky, Junling Chen
+   - Summary: A kinetic impurity transport model was implemented in the Monte-Carlo code DIVIMP to investigate tungsten transport in the boundary plasma of EAST under varied divertor conditions. The study examines W transport and impurity behavior in the scrape-off layer and divertor regions with implications for plasma-facing component performance and divertor target design.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 1; added 1; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals were checked using exact-source filtering with Crossref API and OpenAlex API. One Nuclear Fusion article published on May 20, 2026 was identified covering kinetic effects on tungsten impurity transport in EAST boundary plasma with DIVIMP modeling.
+
 # 2026-05-20 14:20:04 UTC+08:00
 
 ## Fusion literature update
