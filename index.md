@@ -5,6 +5,27 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-21 02:49:57 UTC+08:00
+
+## Fusion literature update
+
+No new journal articles were identified in this brief 3-minute follow-up window (2026-05-21 02:46:44 to 2026-05-21 02:49:57 UTC+08:00). All core fusion journals were rechecked using exact-source filtering.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_RATE_LIMITED; methods: Crossref exact-container-title filter (blocked by 429 error); error: 429 Too Many Requests
+- Plasma Physics and Controlled Fusion (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_RATE_LIMITED; methods: Crossref exact-container-title filter (blocked by 429 error); error: 429 Too Many Requests
+- Journal of Plasma Physics (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (Crossref): OK_EMPTY_RESULTS; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (Crossref): OK_RATE_LIMITED; methods: Crossref exact-container-title filter (blocked by 429 error); error: 429 Too Many Requests
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals were checked using exact-source filtering with Crossref API and OpenAlex API. 7 out of 10 journals completed (3 Crossref queries returned 429 rate limit errors). No new journal articles were identified during this brief 3-minute search window.
+
 # 2026-05-21 02:46:44 UTC+08:00
 
 ## Fusion literature update
