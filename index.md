@@ -5,6 +5,42 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-22 00:30:04 UTC+08:00
+
+## Fusion literature update
+
+Two new journal articles were identified on 2026-05-22 00:30:04 UTC+08:00 (search window: 2026-05-21 18:30:10 to 2026-05-22 00:30:04 UTC+08:00).
+
+**Journal articles identified:**
+
+1. **Nuclear Fusion: "Density limit in peeling-limited pedestals at and above the Greenwald value in DIII-D high poloidal beta plasmas"**
+   - Published: May 21, 2026
+   - [DOI: 10.1088/1741-4326/ae712d](https://doi.org/10.1088/1741-4326/ae712d)
+   - Authors: H Q Wang, Andrea M Garofalo, Siye Ding, Zeyu Li, Chen Zhao, Thomas H Osborne, Alan D Turnbull, Nathan Jordan Richner
+   - Summary: This work investigates the density limit in DIII-D high poloidal beta plasmas with peeling-limited pedestals. The study demonstrates that density limits can reach or exceed the Greenwald value under specific conditions, providing insights into pedestal stability and the interplay between peeling and ballooning modes in high-beta scenarios relevant to next-step fusion devices and burning plasma experiments.
+
+2. **Nuclear Fusion: "Exploration of emission spectra from W<sup>43+</sup>–W<sup>47+</sup> highly charged tungsten impurity ions in the X-ray wavelength range of 3.7–4.0 Å in the Large Helical Device for fusion plasma diagnostics"**
+   - Published: May 21, 2026
+   - [DOI: 10.1088/1741-4326/ae712e](https://doi.org/10.1088/1741-4326/ae712e)
+   - Authors: Tetsutarou Oishi, Ryota Nishimura, Shigeru Morita, Motoshi Goto, Yasuko Kawamoto, Tomoko Kawate, Izumi Murakami, Daiji Kato
+   - Summary: This paper presents analysis of X-ray emission spectra from highly charged tungsten ions (W<sup>43+</sup>–W<sup>47+</sup>) in the Large Helical Device. The study is relevant for tungsten impurity diagnostics and understanding erosion and transport of plasma-facing components in high-temperature fusion plasmas. Results support the development of spectroscopic diagnostics for detecting and quantifying tungsten impurities that affect plasma performance.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_PARSED; methods: Crossref exact-container-title filter; parsed 48; exact-journal candidates 2; added 2; deduped 0; rejected 46; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_REJECTED; methods: OpenAlex exact-source filter; parsed 2; exact-journal candidates 0 (rejected as cosmology/astrophysics); added 0; deduped 0; rejected 2; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals were checked using exact-source filtering with OpenAlex API and Crossref API. Two Nuclear Fusion articles from May 21, 2026 were identified with exact container-title matching using Crossref API and filtered for fusion relevance (DIII-D and LHD experimental work on pedestal physics and tungsten impurity diagnostics).
+
 # 2026-05-21 18:30:10 UTC+08:00
 
 ## Fusion literature update
