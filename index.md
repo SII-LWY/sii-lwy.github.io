@@ -5,6 +5,29 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-22 12:30:08 UTC+08:00
+
+## Fusion literature update
+
+No new journal articles were identified in this 1.5-hour update window (2026-05-22 11:03:22 to 2026-05-22 12:30:08 UTC+08:00). All core fusion journals rechecked using exact-source filtering. The 3 articles from May 21, 2026 were previously identified.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_DEDUPED; methods: Crossref exact-container-title filter; parsed 48; exact-journal candidates 2; added 0; deduped 2 against previous update; rejected 46; error: none
+- Journal of Plasma Physics (Crossref): OK_DEDUPED; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 1; added 0; deduped 1 against previous update; rejected 99; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (Crossref): OK_REJECTED_EXACT_FILTER; methods: Crossref exact-container-title filter; parsed 100; exact-journal candidates 0; added 0; deduped 0; rejected 100; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals rechecked using exact-source filtering with OpenAlex API and Crossref API. 3 previously identified articles (2 Nuclear Fusion and 1 Journal of Plasma Physics) were deduped. No additional new articles found in this brief update window.
+
 # 2026-05-22 11:03:22 UTC+08:00
 
 ## Fusion literature update
