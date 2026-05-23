@@ -5,6 +5,50 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-23 20:35:15 UTC+08:00
+
+## Fusion literature update
+
+Six new preprints were identified from arXiv plasma physics repository (published: May 20-21, 2026).
+
+**Journal articles identified:**
+
+1. **Dynamics of fast magnetosonic wave turbulence**
+   - URL: https://arxiv.org/abs/2605.22710
+   - Published date: May 21, 2026
+   - Source / venue: arXiv
+   - Summary: This paper studies fundamental oscillation modes in astrophysical plasmas through numerical simulations of wave turbulence kinetic equations. The research identifies Kolmogorov-Zakharov spectrum solutions with direct energy cascades and k^(-3/2) power laws, while providing theoretical explanations for certain solar wind plasma observations where weak turbulence was identified for fast magnetosonic waves alongside strong Alfvén wave turbulence.
+
+2. **Second stability region for gyrokinetics and the L-H transition**
+   - URL: https://arxiv.org/abs/2605.22680
+   - Published date: May 21, 2026
+   - Source / venue: arXiv
+   - Summary: This paper investigates the connection between MHD ballooning modes' "second stability region" and the L-H transition in tokamak plasmas using linear gyrokinetics. The authors demonstrate that during H-mode transition, the bootstrap current lowers global magnetic shear while pressure gradients modify local magnetic shear, pushing the plasma into the second stability region with significantly reduced collisionless electrostatic turbulent transport.
+
+3. **On the Shafranov shift in stellarators**
+   - URL: https://arxiv.org/abs/2605.22105
+   - Published date: May 21, 2026
+   - Source / venue: arXiv (submitted to Journal of Plasma Physics)
+   - Summary: This paper analyzes the Shafranov shift phenomenon in stellarators, introducing an average measure of the shift and examining its behavior across optimized stellarator designs. The research finds that quasi-helical and quasi-isodynamic stellarators with many field periods show particularly small Shafranov shifts, making them more robust to plasma pressure variations and more stable as pressure increases cause toroidal plasmas to expand in major radius.
+
+4. **Fast ion effects on the threshold conditions of ion temperature gradient mode and electron temperature gradient mode**
+   - URL: https://arxiv.org/abs/2605.21953
+   - Published date: May 21, 2026
+   - Source / venue: arXiv
+   - Summary: This paper investigates how fast ions affect threshold conditions for ion temperature gradient (ITG) and electron temperature gradient (ETG) modes using analytical and numerical gyrokinetic methods. The research shows that fast ions have favorable effects on ITG stability with strong monotonic dependence on fast ion fraction, while effects on ETG are unfavorable due to kinetic wave-particle resonance phenomena.
+
+5. **Optical analogy for stellarators: Ridges as caustics and coils as singularities**
+   - URL: https://arxiv.org/abs/2605.21814
+   - Published date: May 20, 2026
+   - Source / venue: arXiv
+   - Summary: This paper presents an analytical theory explaining sharp ridge formation on outer flux surfaces in optimized stellarators. Through an optical analogy, ridges represent field line caustics where magnetic field lines focus. The work proves a geometric theorem unifying plasma ridges and external coils as topological necessities constrained by the zero-determinant manifold of the magnetic gradient tensor.
+
+6. **Pfirsch-Schlüter Current**
+   - URL: https://arxiv.org/abs/2605.21637
+   - Published date: May 20, 2026
+   - Source / venue: arXiv
+   - Summary: This paper examines the Pfirsch-Schlüter current in toroidal plasma equilibria and demonstrates how it can be localized within half a period of a stellarator when magnetic field line characteristics are optimized. The work addresses key optimization challenges in stellarator design regarding minimizing both the magnitude and spatial extent of these currents that cause plasma shape distortions.
+
 # 2026-05-23 20:23:25 UTC+08:00
 
 ## Fusion literature update
