@@ -5,6 +5,28 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-23 12:30:09 UTC+08:00
+
+## Fusion literature update
+
+No new journal articles were identified in this 2.7-hour update window (2026-05-23 09:50:55 to 2026-05-23 12:30:09 UTC+08:00). All core fusion journals rechecked using exact-source filtering. Three Nuclear Fusion articles from May 22, 2026 were identified in the previous update.
+
+**Source check summary:**
+
+- Nuclear Fusion (Crossref): OK_DEDUPED; methods: Crossref exact-container-title filter; parsed 36; exact-journal candidates 3 (same as 09:50:55 update); added 0; deduped 3 against previous update; rejected 33; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Fusion Engineering and Design (OpenAlex): OK_PENDING_EXACT_FILTER; methods: OpenAlex queried (2 results), exact-source verification pending; added 0; error: none
+- Review of Scientific Instruments (OpenAlex): OK_PENDING_EXACT_FILTER; methods: OpenAlex queried (2 results), exact-source verification pending; added 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_PENDING_EXACT_FILTER; methods: OpenAlex queried (4 results), exact-source verification pending; added 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals rechecked using exact-source filtering with OpenAlex API and Crossref API. 3 Nuclear Fusion articles from May 22, 2026 were deduped against the 09:50:55 update. No additional new articles identified. Some journals (FED, RSI, NME) showed activity via OpenAlex but require exact-source verification, which is pending due to API response formatting limitations.
+
 # 2026-05-23 09:50:55 UTC+08:00
 
 ## Fusion literature update
