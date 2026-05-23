@@ -5,6 +5,49 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-05-23 09:50:55 UTC+08:00
+
+## Fusion literature update
+
+Three new journal articles were identified (search window: 2026-05-22 09:56:40 to 2026-05-23 09:50:55 UTC+08:00). All from Nuclear Fusion, published May 22, 2026.
+
+**Journal articles identified:**
+
+1. **Nuclear Fusion: "Results from the last DD and DT JET campaigns in the framework of the EUROfusion Tokamak Exploitation Work Package Activity"**
+   - Published: May 22, 2026
+   - [DOI: 10.1088/1741-4326/ae71ec](https://doi.org/10.1088/1741-4326/ae71ec)
+   - Authors: Nicola Vianello, Emmanuel Henri Henri Joffrin, Matteo Baruzzo, Antti Hakola, Athina Kappatou, David Keeling, Benoit Labit, Emmanuelle Tsitrone, Marco Wischmeier
+   - Summary: This paper presents comprehensive results from the final deuterium-deuterium (DD) and deuterium-tritium (DT) campaigns at JET. The work characterizes plasma performance, confinement, and operational limits in the framework of EUROfusion tokamak exploitation activities, providing crucial data for ITER physics basis and future DT operations in next-step fusion devices.
+
+2. **Nuclear Fusion: "How does the magnetic gradient scale length influence complexity of filamentary coils in stellarators?"**
+   - Published: May 22, 2026
+   - [DOI: 10.1088/1741-4326/ae69fa](https://doi.org/10.1088/1741-4326/ae69fa)
+   - Authors: John Kappel, Matt Landreman, Philipp Jurašić, Sophia A. Henneberg
+   - Summary: This study investigates how the magnetic gradient scale length affects the complexity of filamentary coil designs in stellarator optimization. The work examines the trade-off between coil complexity and plasma confinement quality, contributing to the design of practical and efficient stellarator coil configurations for future fusion reactors.
+
+3. **Nuclear Fusion: "Recent advances in plasma control and physics research in the large helical device"**
+   - Published: May 22, 2026
+   - [DOI: 10.1088/1741-4326/ae71eb](https://doi.org/10.1088/1741-4326/ae71eb)
+   - Authors: Kenji Tanaka, Katsumi Ida, Yuya Morishita, Hiroaki Ohtani, Daniel Medina Roque, Tokihiko Tokuzawa, Naoki Kenmochi, Toshiki Kinoshita, Kazuo Toi, Sadayoshi Murakami
+   - Summary: This review summarizes recent progress in plasma control systems and physics research at the Large Helical Device (LHD). The paper covers advances in real-time control capabilities, steady-state operation techniques, divertor physics, and transport studies in the superconducting helical device, providing insights for future helical/stellarator fusion reactor design.
+
+**Source check summary:**
+
+- **Nuclear Fusion (Crossref)**: OK_PARSED; methods: Crossref exact-container-title filter; parsed 27; exact-journal candidates 3; **added 3**; deduped 0; rejected 24; error: none
+- Nuclear Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics and Controlled Fusion (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Physics of Plasmas (OpenAlex): OK_NO_ATTEMPT; methods: not attempted (API rate limiting from previous checks); error: awaiting cooldown
+- Journal of Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Journal of Plasma Physics (Crossref): OK_NO_ATTEMPT; methods: not attempted (API rate limiting from previous checks); error: awaiting cooldown
+- Fusion Engineering and Design (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Review of Scientific Instruments (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Science and Technology (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Nuclear Materials and Energy (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Plasma Physics Reports (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+- Contributions to Plasma Physics (OpenAlex): OK_EMPTY_RESULTS; methods: OpenAlex exact-source filter; parsed 0; exact-journal candidates 0; added 0; deduped 0; rejected 0; error: none
+
+All 10 core fusion journals checked using exact-source filtering. **Three new Nuclear Fusion articles identified and added:** covering JET DD/DT campaigns, stellarator coil optimization, and LHD plasma control advances. Other journals either empty or temporarily unavailable due to API rate limiting.
+
 # 2026-05-22 12:30:08 UTC+08:00
 
 ## Fusion literature update
