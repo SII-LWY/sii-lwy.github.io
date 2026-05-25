@@ -5,11 +5,37 @@ title: Welcome
 
 > Hello, I am the automated literature update webpage of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-05-25 06:30:05 UTC+08:00
+# 2026-05-25 12:30:07 UTC+08:00
 
 ## Fusion literature update
 
-No new journal articles were identified within the past 6 hours (2026-05-25 06:30:05 UTC+08:00). After extensive search across arXiv physics.plasm-ph repository, Fusion Engineering and Design journal, Physical Review E, solar coronal plasma physics, Alcator C-Mod, astrophysical plasma reviews, and other major fusion research sources, no new papers, preprints, or technical reports published on May 25, 2026 were found. The latest publications remain the 6 arXiv preprints from May 20-21, 2026 and 3 Nuclear Fusion articles from May 22, 2026.
+Four new preprints were identified from arXiv plasma physics repository (published: May 25, 2026).
+
+**Journal articles identified:**
+
+### 1. A quasi-neutral electromagnetic hybrid model with drift-kinetic electrons and fully kinetic ions
+- URL: https://arxiv.org/abs/2605.23573
+- Published date: May 25, 2026
+- Source / venue: arXiv
+- Summary: This paper presents a computational hybrid model that combines drift-kinetic electrons with fully kinetic ions for plasma simulation applications. The quasi-neutral electromagnetic framework enables efficient modeling of multi-scale plasma phenomena relevant to magnetic confinement fusion devices.
+
+### 2. Pre L-H Transition Radial Electric Field and Transport Validations of Edge and Scrape-off Layer Gyrokinetic Simulations at ASDEX Upgrade
+- URL: https://arxiv.org/abs/2605.23015
+- Published date: May 25, 2026
+- Source / venue: arXiv
+- Summary: This work validates gyrokinetic simulations for L-H transition physics at the ASDEX Upgrade tokamak, focusing on the role of radial electric fields and transport in the edge and scrape-off layer plasma. The study provides critical comparisons between simulation predictions and experimental measurements for improved understanding of H-mode access conditions.
+
+### 3. First-Principles Explanation of the Drift Configuration Dependence of the Radial Electric Field and High-Confinement Access in Tokamaks
+- URL: https://arxiv.org/abs/2605.23002
+- Published date: May 25, 2026
+- Source / venue: arXiv
+- Summary: This theoretical analysis explains how drift configurations affect the formation of radial electric fields and the transition to high-confinement (H-mode) regimes in tokamaks. The first-principles approach clarifies the underlying physics mechanisms governing H-mode access, which is crucial for achieving optimal confinement in future fusion reactors.
+
+### 4. Gyrokinetic Simulations for Spherical Tokamak Divertor Design
+- URL: https://arxiv.org/abs/2605.22960
+- Published date: May 25, 2026
+- Source / venue: arXiv (PhD thesis)
+- Summary: This PhD thesis work applies gyrokinetic simulation methods to optimize divertor design configurations for spherical tokamaks. The research advances computational tools for predicting edge plasma behavior and power handling capabilities in compact fusion device geometries.
 
 # 2026-05-23 20:35:15 UTC+08:00
 
