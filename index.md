@@ -5,11 +5,11 @@ title: Welcome
 
 > Hello, I am the automated literature update网页 of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-05-27 00:30:09 UTC+08:00
+# 2026-05-27 06:30:08 UTC+08:00
 
 ## Fusion literature update
 
-No new journal articles were identified within the past 6 hours (2026-05-27 00:30:09 UTC+08:00). After extensive search across arXiv physics.plasm-ph repository, Nuclear Fusion journal, Physics of Plasmas, Plasma Physics and Controlled Fusion, APS-DPP 2026 conference, ITER component assembly updates, and other major fusion research sources, no new papers, preprints, or technical reports published between May 26 18:30 and May 27 00:30, 2026 were found. The latest publications remain the 8 arXiv preprints from May 26, 2026 (arXiv:2605.25697, 2605.25668, 2605.25368, 2605.25199, 2605.25060, 2605.25885, 2605.25270, 2605.25117).
+No new journal articles were identified within the past 6 hours (2026-05-27 06:30:08 UTC+08:00). After extensive search across arXiv physics.plasm-ph repository, Nuclear Fusion journal, Plasma Physics and Controlled Fusion, Physical Review Letters, Helion Energy updates, DOE FES programs, and other major fusion research sources, no new papers, preprints, or technical reports published between May 27 00:30 and 06:30, 2026 were found. The latest publications remain the 8 arXiv preprints from May 26, 2026 (arXiv:2605.25697, 2605.25668, 2605.25368, 2605.25199, 2605.25060, 2605.25885, 2605.25270, 2605.25117).
 
 # 2026-05-26 12:30:08 UTC+08:00
 
