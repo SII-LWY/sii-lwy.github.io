@@ -5,11 +5,49 @@ title: Welcome
 
 > Hello, I am the automated literature update网页 of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-05-26 06:30:07 UTC+08:00
+# 2026-05-26 12:30:08 UTC+08:00
 
 ## Fusion literature update
 
-No new journal articles were identified within the past 6 hours (2026-05-26 06:30:07 UTC+08:00). After extensive search across arXiv physics.plasm-ph repository, Physical Review Letters, KSTAR, DIII-D, TCV tokamaks, I-mode pedestal characteristics research, and other major fusion research sources, no new papers, preprints, or technical reports published between May 26 00:30 and 06:30, 2026 were found. The latest publications remain the 6 arXiv preprints from May 25, 2026 (arXiv:2605.23573, 2605.23511, 2605.23121, 2605.23015, 2605.23002, 2605.22960).
+Eight new preprints were identified from arXiv plasma physics repository (published: May 26, 2026).
+
+**Journal articles identified:**
+
+### 1. Pulse magnet of 10 T for power laser experiments with x-ray free-electron laser diagnostics
+- URL: https://arxiv.org/abs/2605.25697
+- Published date: May 26, 2026
+- Source / venue: arXiv
+- Summary: This paper describes a 10 T pulsed magnet system designed for power laser experiments with integrated x-ray free-electron laser (XFEL) diagnostics. The work advances high-field magnetic technology for laser-plasma interaction studies relevant to inertial confinement fusion research and plasma diagnostics under extreme conditions.
+
+### 2. Optimized design of a Penning ion source for sealed neutron tube
+- URL: https://arxiv.org/abs/2605.25668
+- Published date: May 26, 2026
+- Source / venue: arXiv
+- Summary: This paper presents an optimized Penning ion source design for sealed neutron tube applications. The research addresses critical ion source technology for neutron generation devices, which have applications in fusion material testing, plasma diagnostics, and neutron activation analysis systems.
+
+### 3. Bayesian Estimation of Spectroscopic Parameters: Application to the Atomic Nitrogen Bound-Bound System
+- URL: https://arxiv.org/abs/2605.25368
+- Published date: May 26, 2026
+- Source / venue: arXiv
+- Summary: This work develops Bayesian estimation methods for spectroscopic parameters, specifically applied to atomic nitrogen bound-bound transitions. The framework enables improved plasma diagnostic accuracy for determining electron temperature, density, and impurity concentrations in fusion plasma edge and divertor regions.
+
+### 4. Electromagnetic Signatures of Kinetic Alfvén Wave Turbulence at Ion Inertial Scales in Earth's High-β Magnetosheath
+- URL: https://arxiv.org/abs/2605.25199
+- Published date: May 26, 2026
+- Source / venue: arXiv
+- Summary: This study investigates electromagnetic signatures of kinetic Alfvén wave turbulence at ion inertial scales in Earth's magnetosheath. The findings contribute to understanding fundamental plasma wave-particle interaction mechanisms relevant to turbulent transport and heating processes in both space and laboratory fusion plasmas.
+
+### 5. Impact of non-equilibrium radiation in a high-enthalpy inductively coupled plasma wind tunnel
+- URL: https://arxiv.org/abs/2605.25060
+- Published date: May 26, 2026
+- Source / venue: arXiv
+- Summary: This paper examines the effects of non-equilibrium radiation in high-enthalpy inductively coupled plasma wind tunnels. The research provides insights into plasma-material interaction processes relevant to fusion reactor divertor and first-wall components under intense heat loads, with applications for thermal protection system testing.
+
+### 6. Cyclotron breaking: a mechanism for parallel ion cyclotron waves to heat the fast solar wind
+- URL: https://arxiv.org/abs/2605.25117
+- Published date: May 26, 2026
+- Source / venue: arXiv (submitted to Journal of Plasma Physics)
+- Summary: This study proposes a cyclotron breaking mechanism through which parallel ion cyclotron waves can heat the fast solar wind. The work advances fundamental understanding of wave-driven plasma heating and particle energization processes that are relevant to radio-frequency heating schemes in magnetic confinement fusion devices.
 
 # 2026-05-25 12:30:07 UTC+08:00
 
