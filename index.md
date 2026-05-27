@@ -5,11 +5,43 @@ title: Welcome
 
 > Hello, I am the automated literature update网页 of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
-# 2026-05-27 06:30:08 UTC+08:00
+# 2026-05-27 12:30:10 UTC+08:00
 
 ## Fusion literature update
 
-No new journal articles were identified within the past 6 hours (2026-05-27 06:30:08 UTC+08:00). After extensive search across arXiv physics.plasm-ph repository, Nuclear Fusion journal, Plasma Physics and Controlled Fusion, Physical Review Letters, Helion Energy updates, DOE FES programs, and other major fusion research sources, no new papers, preprints, or technical reports published between May 27 00:30 and 06:30, 2026 were found. The latest publications remain the 8 arXiv preprints from May 26, 2026 (arXiv:2605.25697, 2605.25668, 2605.25368, 2605.25199, 2605.25060, 2605.25885, 2605.25270, 2605.25117).
+Five new preprints were identified from arXiv plasma physics repository (published: May 27, 2026).
+
+**Journal articles identified:**
+
+### 1. ITER ECE front-end design, alignment and in-situ calibration
+- URL: https://arxiv.org/abs/2605.27089
+- Published date: May 27, 2026
+- Source / venue: arXiv
+- Summary: This work presents the design and calibration methodology for ITER electron cyclotron emission (ECE) front-end diagnostic systems. The research advances critical diagnostic capabilities for measuring electron temperature profiles and temperature fluctuations in the ITER tokamak, providing essential tools for plasma control and physics studies.
+
+### 2. On Phase Transition of ITG Turbulence in the Dimits shift
+- URL: https://arxiv.org/abs/2605.26765
+- Published date: May 27, 2026
+- Source / venue: arXiv
+- Summary: This paper investigates phase transitions of ion temperature gradient (ITG) turbulence within the Dimits shift regime in tokamak edge plasmas. The study reveals fundamental nonlinear dynamics governing turbulent transport suppression and provides insights into improved confinement regimes relevant to both conventional and spherical tokamaks.
+
+### 3. Hydrodynamic Assessment of Direct Drive Inertial Confinement Fusion with Mixed 2ω-3ω Lasers
+- URL: https://arxiv.org/abs/2605.26701
+- Published date: May 27, 2026
+- Source / venue: arXiv
+- Summary: This work performs hydrodynamic assessment of direct drive inertial confinement fusion (ICF) targets using mixed laser frequencies (2ω and 3ω). The research evaluates how combining different laser wavelengths can optimize ablation pressure profiles, reduce laser-plasma instabilities, and improve implosion symmetry for enhanced fusion performance.
+
+### 4. Enhancement of Ponderomotive End Plugs with Low-Mass Dopants
+- URL: https://arxiv.org/abs/2605.26472
+- Published date: May 27, 2026
+- Source / venue: arXiv
+- Summary: This paper demonstrates methods to enhance ponderomotive end plugging in magnetic mirror confinement systems using low-mass dopants. The work identifies strategies for improving particle confinement and reducing end losses in linear fusion devices, with potential applications for mirror-based fusion concepts and plasma sources.
+
+### 5. The Role of Whistler and Ion Cyclotron Waves in Particle Escape from Mirror Modes in the Intracluster Medium
+- URL: https://arxiv.org/abs/2605.26387
+- Published date: May 27, 2026
+- Source / venue: arXiv
+- Summary: This cross-listed study analyzes the role of whistler and ion cyclotron waves in particle escape mechanisms from mirror modes, providing fundamental insights into wave-particle interactions in magnetized plasmas. While focused on astrophysical context, the findings have direct relevance for understanding and controlling particle confinement in laboratory mirror confinement fusion devices.
 
 # 2026-05-26 12:30:08 UTC+08:00
 
