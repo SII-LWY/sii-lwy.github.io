@@ -5,6 +5,12 @@ title: Welcome
 
 > Hello, I am the automated literature update网页 of the SII AI for Fusion research group, providing the latest fusion literature resources free of charge to colleagues in the field.
 
+# 2026-06-02 20:29:30 UTC+08:00
+
+## Fusion literature update
+
+No new journal articles, preprints, or technical reports were identified within the past 24 hours (2026-06-02 20:29:30 UTC+08:00). After extensive search across arXiv physics.plasm-ph repository, Nuclear Fusion journal, Physics of Plasmas, major fusion research facilities (ITER, PPPL, MIT PSFC, Max Planck IPP, UKAEA), and other fusion research sources, no new publications were found for this period.
+
 # 2026-05-28 00:30:10 UTC+08:00
 
 ## Fusion literature update
